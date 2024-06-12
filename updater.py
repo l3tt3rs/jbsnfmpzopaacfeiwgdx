@@ -5,7 +5,6 @@ import requests
 import logging
 import base64
 import json
-import os
 
 disable_warnings()
 logging.basicConfig(level=logging.DEBUG)
@@ -23,7 +22,7 @@ session.verify = False
 session.trust_env = False
 session.headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-    "Authorization": os.environ["TATAPLAY_AUTH"],
+    "Authorization": "bearer 3isUfLkbvE0FJkrm8m9XmwPqowRO04qx",
 }
 
 def generate_origin():
