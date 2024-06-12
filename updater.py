@@ -33,7 +33,7 @@ def generate_origin():
     origin_data = init_origin_data.copy()
 
     for index, origin_channel_data in enumerate(init_origin_data):
-        for _ in range(2):
+        for _ in range(3):
             origin_channel_id = origin_channel_data["id"]
             source_response = session.get(f"https://tm.tapi.videoready.tv/digital-feed-services/api/partner/cdn/player/details/LIVE/{origin_channel_id}")
 
