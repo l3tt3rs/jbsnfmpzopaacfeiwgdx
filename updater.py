@@ -49,7 +49,7 @@ def generate_origin():
                     origin_source_data[key] = decrypt_source_url(
                         value).split("?hdnea=")[0]
 
-            origin_channel_data["sourceData"] = origin_source_data
+            origin_channel_data["streamData"] = origin_source_data
             origin_data[index] = origin_channel_data
 
             with open("origin.json", "w") as file:
@@ -58,7 +58,6 @@ def generate_origin():
             break
 
         sleep(5)
-
 
 if __name__ == "__main__":
     generate_origin()

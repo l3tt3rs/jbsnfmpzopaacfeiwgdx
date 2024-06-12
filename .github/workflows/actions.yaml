@@ -25,10 +25,10 @@ jobs:
           pip3 install -r requirements.txt
           python3 updater.py
 
-      - name: Commit playlists
+      - name: Commit data
         run: |
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          git add playlists
+          git add origin.json
           git commit -m "Updated via AutoBot 🤖" || echo "No changes to commit"
           git push
