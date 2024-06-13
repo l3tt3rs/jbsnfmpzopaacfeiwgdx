@@ -29051,21 +29051,21 @@
     },
     {
         "id": 624,
-        "title": "Pitaara TV",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12929-jb64agig-v1/imageContent-12929-jb64agig-m1.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12930-jb64agig-v1/imageContent-12930-jb64agig-m1.jpg",
-        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12931-jb64agig-v1/imageContent-12931-jb64agig-m1.png",
+        "title": "Pitaara Movies",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PITAA_BoxCover-v2/PITAA_BoxCover.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PITAA_Poster-v2/PITAA_Poster.jpg",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PITAA_Thumbnail-v2/PITAA_Thumbnail.png",
         "contentType": "LIVE",
         "subTitles": [
             "Punjabi"
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001368",
             "1000000897",
+            "1000000001",
+            "1000001368",
             "1000001035",
             "1000001247",
-            "1000000001",
             "1000001523"
         ],
         "genres": [
@@ -29077,9 +29077,9 @@
         "hdChannel": false,
         "restartTv": true,
         "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Pitaara TV.png",
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Pitaara-Logo_2000_X_1125_Transpharent.png",
         "provider": "Paul E commerce",
-        "logoVersion": 2,
+        "logoVersion": 3,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_855/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000648",
