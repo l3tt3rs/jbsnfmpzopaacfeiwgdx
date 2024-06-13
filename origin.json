@@ -31065,8 +31065,8 @@
     {
         "id": 849,
         "title": "Kashi Vishwanath Temple, Varanasi",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/KSVW_BoxCover-v5/KSVW_BoxCover.png",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/KSVW_Poster-v6/KSVW_Poster.png",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/KSVW_BoxCover-v6/KSVW_BoxCover.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/KSVW_Poster-v7/KSVW_Poster.png",
         "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/KSVW_Thumbnail-v7/KSVW_Thumbnail.png",
         "contentType": "LIVE",
         "subTitles": [
@@ -31074,10 +31074,10 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001035",
-            "1000001038",
             "1000000001",
-            "1000001274"
+            "1000001274",
+            "1000001038",
+            "1000001035"
         ],
         "genres": [
             "Devotional",
@@ -31090,7 +31090,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Darshan-Transparent.png",
         "provider": "Tata Communications Ltd.",
-        "logoVersion": 11,
+        "logoVersion": 13,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://delta45tatasky.akamaized.net/out/i/1556.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000985",
