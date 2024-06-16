@@ -14022,6 +14022,46 @@
         }
     },
     {
+        "id": 742,
+        "title": "Tata Play Aradhana",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TSARAD_BoxCover-v7/TSARAD_BoxCover.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TSARAD_Poster-v7/TSARAD_Poster.png",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TSARAD_Thumbnail-v6/TSARAD_Thumbnail.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Telugu",
+            "Kannada",
+            "Hindi",
+            "Tamil"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000000446",
+            "1000000002",
+            "1000000948",
+            "1000000630"
+        ],
+        "genres": [
+            "Devotional",
+            "Spiritual"
+        ],
+        "channelNumber": "1051",
+        "dvbTriplet": "d2.1F.C26",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Aradhana-Transparent.png",
+        "provider": "Tata Play Service",
+        "logoVersion": 38,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "http://192.168.42.45/out/i/1543.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000798",
+            "dashWidewinePlayUrl": "http://192.168.42.45/out/i/1542.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000798",
+            "fairplayUrl": "http://192.168.42.45/out/i/1545.m3u8"
+        }
+    },
+    {
         "id": 38,
         "title": "Aastha",
         "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-103-j5fl5t1k-v1/imageContent-103-j5fl5t1k-m1.jpg",
