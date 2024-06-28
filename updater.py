@@ -22,7 +22,7 @@ session.verify = False
 session.trust_env = False
 session.headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-    "Authorization": "bearer 3isUfLkbvE0FJkrm8m9XmwPqowRO04qx",
+    "Authorization": "bearer lHh7gR2BgQgtz1gkcQ7MbxyyrYv8dWpq",
 }
 
 def generate_origin():
