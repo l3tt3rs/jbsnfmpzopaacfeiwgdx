@@ -1997,63 +1997,6 @@
         }
     },
     {
-        "id": 888,
-        "title": "Ishara",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_BoxCover-v2/Ishara_BoxCover.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Poster-v2/Ishara_Poster.jpg",
-        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png",
-        "contentType": "LIVE",
-        "subTitles": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "entitlements": [
-            "1000001035",
-            "1000000001",
-            "1000001877",
-            "1000001079",
-            "1000001874",
-            "1000001084",
-            "1000001102",
-            "1000001834",
-            "1000001105",
-            "1000001363",
-            "1000001876",
-            "1000000803",
-            "1000001114",
-            "1000001097",
-            "1000001703",
-            "1000001095",
-            "1000001482",
-            "1000001038",
-            "1000001104",
-            "1000001875",
-            "1000000050",
-            "1000001100",
-            "1000001873",
-            "1000002206",
-            "1000000795"
-        ],
-        "genres": [
-            "Entertainment"
-        ],
-        "channelNumber": "182",
-        "dvbTriplet": "d2.20.C82",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Ishara-LOGO_2000_X_1125_Transpharent.png",
-        "provider": "IN10 MEDIA PVT LTD",
-        "logoVersion": 2,
-        "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
-            "dashWidewinePlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
-            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
-            "fairplayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/index.m3u8"
-        }
-    },
-    {
         "id": 874,
         "title": "Deployment channel 19.0",
         "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ch7003_BoxCover-v1/ch7003_BoxCover.jpg",
@@ -2148,6 +2091,63 @@
             "dashWidewinePlayUrl": "https://tataskyvod.pc.cdn.bitgravity.com/delta14/out/i/7976503.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001019",
             "fairplayUrl": "https://tataskyvod.pc.cdn.bitgravity.com/delta14/out/i/7976506.m3u8"
+        }
+    },
+    {
+        "id": 888,
+        "title": "Ishara",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_BoxCover-v2/Ishara_BoxCover.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Poster-v2/Ishara_Poster.jpg",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000001035",
+            "1000000001",
+            "1000001877",
+            "1000001079",
+            "1000001874",
+            "1000001084",
+            "1000001102",
+            "1000001834",
+            "1000001105",
+            "1000001363",
+            "1000001876",
+            "1000000803",
+            "1000001114",
+            "1000001097",
+            "1000001703",
+            "1000001095",
+            "1000001482",
+            "1000001038",
+            "1000001104",
+            "1000001875",
+            "1000000050",
+            "1000001100",
+            "1000001873",
+            "1000002206",
+            "1000000795"
+        ],
+        "genres": [
+            "Entertainment"
+        ],
+        "channelNumber": "182",
+        "dvbTriplet": "d2.20.C82",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Ishara-LOGO_2000_X_1125_Transpharent.png",
+        "provider": "IN10 MEDIA PVT LTD",
+        "logoVersion": 2,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
+            "dashWidewinePlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
+            "fairplayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/index.m3u8"
         }
     },
     {
@@ -4628,7 +4628,7 @@
             "1000001368"
         ],
         "genres": [
-            "Hindi Movies"
+            "Movies"
         ],
         "channelNumber": "383",
         "dvbTriplet": "d2.2A.107F",
@@ -4637,7 +4637,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/CHUMBAK-TV-Logo_2000_X_1125_Transpharent.png",
         "provider": "Shemaroo Entertainment Media Network",
-        "logoVersion": 13,
+        "logoVersion": 14,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_2052/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001416",
@@ -10805,10 +10805,10 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000002",
+            "1000002768",
             "1000001922",
             "1000002740",
-            "1000002768",
+            "1000000002",
             "1000002767"
         ],
         "genres": [
@@ -10820,8 +10820,8 @@
         "restartTv": false,
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-Bal-Bahrat-HD-Logo_2000_X_1125_Transpharent.png",
-        "provider": "tatasky",
-        "logoVersion": 11,
+        "provider": "Eenadu Television Private Limited",
+        "logoVersion": 14,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_2104/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001470",
@@ -14532,21 +14532,21 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001035",
             "1000001038",
+            "1000001035",
             "1000001274"
         ],
         "genres": [
             "Spiritual"
         ],
-        "channelNumber": "1075",
+        "channelNumber": "2028",
         "dvbTriplet": "",
         "hdChannel": false,
         "restartTv": false,
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Bhati-Sagar-logo_2000_X_1125_Transpharent.png",
         "provider": "tatasky",
-        "logoVersion": 5,
+        "logoVersion": 6,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://delta45tatasky.akamaized.net/out/i/1612.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001497",
@@ -20075,9 +20075,9 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
+            "1000002742",
             "1000001922",
-            "1000000002",
-            "1000002742"
+            "1000000002"
         ],
         "genres": [
             "Regional",
@@ -20090,7 +20090,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png",
         "provider": "tatasky",
-        "logoVersion": 12,
+        "logoVersion": 13,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_2103/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001472",
@@ -20753,9 +20753,9 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000002",
+            "1000001922",
             "1000002741",
-            "1000001922"
+            "1000000002"
         ],
         "genres": [
             "Regional Telugu"
@@ -20767,7 +20767,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png",
         "provider": "tatasky",
-        "logoVersion": 11,
+        "logoVersion": 12,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_2102/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001471",
@@ -31763,8 +31763,8 @@
         "contractName": "SUBSCRIPTION",
         "entitlements": [
             "1000001038",
-            "1000001035",
-            "1000001274"
+            "1000001274",
+            "1000001035"
         ],
         "genres": [
             "Lifestyle"
@@ -31776,7 +31776,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/BVG---Ek-Behtar-Bunland-Bharat-logo_2000_X_1125_Transpharent.png",
         "provider": "tatasky",
-        "logoVersion": 6,
+        "logoVersion": 8,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://delta45tatasky.akamaized.net/out/i/1623.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001496",
