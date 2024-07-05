@@ -14521,6 +14521,41 @@
         }
     },
     {
+        "id": 1372,
+        "title": "Bhaktisagar",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BKSR_BoxCover-v1/BKSR_BoxCover.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BKSR_Poster-v1/BKSR_Poster.png",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BKSR_Thumbnail-v1/BKSR_Thumbnail.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000001035",
+            "1000001038",
+            "1000001274"
+        ],
+        "genres": [
+            "Spiritual"
+        ],
+        "channelNumber": "1075",
+        "dvbTriplet": "",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Bhati-Sagar-logo_2000_X_1125_Transpharent.png",
+        "provider": "tatasky",
+        "logoVersion": 5,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://delta45tatasky.akamaized.net/out/i/1612.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001497",
+            "dashWidewinePlayUrl": "https://delta45tatasky.akamaized.net/out/i/1611.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001497",
+            "fairplayUrl": "https://delta45tatasky.akamaized.net/out/i/1609.m3u8"
+        }
+    },
+    {
         "id": 283,
         "title": "Aastha Bhajan",
         "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11210-j9icd8jc-v1/imageContent-11210-j9icd8jc-m1.jpg",
@@ -20046,7 +20081,7 @@
         ],
         "genres": [
             "Regional",
-            "Entertainment"
+            "Regional Telugu"
         ],
         "channelNumber": "1416",
         "dvbTriplet": "d2.2B.10E8",
@@ -20055,7 +20090,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-plus-HD-Logo_2000_X_1125_Transpharent.png",
         "provider": "tatasky",
-        "logoVersion": 10,
+        "logoVersion": 12,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_2103/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001472",
@@ -20718,13 +20753,12 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001922",
             "1000000002",
-            "1000002741"
+            "1000002741",
+            "1000001922"
         ],
         "genres": [
-            "Regional",
-            "Movies"
+            "Regional Telugu"
         ],
         "channelNumber": "1439",
         "dvbTriplet": "d2.2B.10E7",
@@ -20733,7 +20767,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ETV-cinema-HD-Logo_2000_X_1125_Transpharent.png",
         "provider": "tatasky",
-        "logoVersion": 10,
+        "logoVersion": 11,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_2102/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001471",
@@ -31742,7 +31776,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/BVG---Ek-Behtar-Bunland-Bharat-logo_2000_X_1125_Transpharent.png",
         "provider": "tatasky",
-        "logoVersion": 5,
+        "logoVersion": 6,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://delta45tatasky.akamaized.net/out/i/1623.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001496",
