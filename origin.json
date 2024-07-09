@@ -7170,7 +7170,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1720557161~acl=/*~hmac=1a1f6fbe85d45db2d0fdb68a893417216369429012f245a41ca2f24cacb7007f"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1720564311~acl=/*~hmac=191987c9b71516a6c027c26dd42589b2a22c5c32ebeb86fd2d6b421ca5f5e536"
         }
     },
     {
@@ -8151,6 +8151,63 @@
         }
     },
     {
+        "id": 278,
+        "title": "Good News Today",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11204-j9icarsw-v2/imageContent-11204-j9icarsw-m2.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11205-j9icarsw-v2/imageContent-11205-j9icarsw-m2.jpg",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11206-j9icarsw-v2/imageContent-11206-j9icarsw-m2.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000001893",
+            "1000001225",
+            "1000001386",
+            "1000000051",
+            "1000001550",
+            "1000001227",
+            "1000001091",
+            "1000001549",
+            "1000000001",
+            "1000002072",
+            "1000001869",
+            "1000001345",
+            "1000001051",
+            "1000001280",
+            "1000001342",
+            "1000001089",
+            "1000001432",
+            "1000001902",
+            "1000001035",
+            "1000000882",
+            "1000001226",
+            "1000001016",
+            "1000001523",
+            "1000001444",
+            "1000001443"
+        ],
+        "genres": [
+            "News"
+        ],
+        "channelNumber": "525",
+        "dvbTriplet": "d2.E.592",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/GNT-Logo-2021_AT_FONT-transparent.png",
+        "provider": "Good News Today",
+        "logoVersion": 1,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000292",
+            "dashWidewinePlayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000292",
+            "fairplayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/index.m3u8"
+        }
+    },
+    {
         "id": 260,
         "title": "Zee Business",
         "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11121-j95jyvu8-v1/imageContent-11121-j95jyvu8-m1.jpg",
@@ -8213,63 +8270,6 @@
             "dashWidewinePlayUrl": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000274",
             "fairplayUrl": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_421/output/index.m3u8"
-        }
-    },
-    {
-        "id": 278,
-        "title": "Good News Today",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11204-j9icarsw-v2/imageContent-11204-j9icarsw-m2.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11205-j9icarsw-v2/imageContent-11205-j9icarsw-m2.jpg",
-        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11206-j9icarsw-v2/imageContent-11206-j9icarsw-m2.png",
-        "contentType": "LIVE",
-        "subTitles": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "entitlements": [
-            "1000001893",
-            "1000001225",
-            "1000001386",
-            "1000000051",
-            "1000001550",
-            "1000001227",
-            "1000001091",
-            "1000001549",
-            "1000000001",
-            "1000002072",
-            "1000001869",
-            "1000001345",
-            "1000001051",
-            "1000001280",
-            "1000001342",
-            "1000001089",
-            "1000001432",
-            "1000001902",
-            "1000001035",
-            "1000000882",
-            "1000001226",
-            "1000001016",
-            "1000001523",
-            "1000001444",
-            "1000001443"
-        ],
-        "genres": [
-            "News"
-        ],
-        "channelNumber": "525",
-        "dvbTriplet": "d2.E.592",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/GNT-Logo-2021_AT_FONT-transparent.png",
-        "provider": "Good News Today",
-        "logoVersion": 1,
-        "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000292",
-            "dashWidewinePlayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/manifest.mpd",
-            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000292",
-            "fairplayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_434/output/index.m3u8"
         }
     },
     {
@@ -8908,45 +8908,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1720557391~acl=/*~hmac=cc08515b73ba68bdc29d4f0a9b3cf27e6c978db15a5ba82b4f916375ca7d2acb"
-        }
-    },
-    {
-        "id": 324,
-        "title": "DD India",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDIND_BoxCover-v5/DDIND_BoxCover.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDIND_Poster-v4/DDIND_Poster.jpg",
-        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDIND_Thumbnail.png-v4/DDIND_Thumbnail.png.png",
-        "contentType": "LIVE",
-        "subTitles": [
-            "English"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "entitlements": [
-            "1000001274",
-            "1000000001",
-            "1000001208",
-            "1000001038",
-            "1000000468",
-            "1000001035"
-        ],
-        "genres": [
-            "News"
-        ],
-        "channelNumber": "622",
-        "dvbTriplet": "d2.24.E13",
-        "hdChannel": false,
-        "restartTv": false,
-        "isCloudDvr": false,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD India.png",
-        "provider": "Doordarshan",
-        "logoVersion": 1,
-        "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000342",
-            "dashWidewinePlayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd",
-            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000342",
-            "fairplayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/index.m3u8"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1720564552~acl=/*~hmac=98adc4d6f5aa7b78834356701bba241c05bed86ca5649087cf4e4eb1c8590e62"
         }
     },
     {
@@ -9021,6 +8983,44 @@
             "dashWidewinePlayUrl": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000318",
             "fairplayUrl": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/index.m3u8"
+        }
+    },
+    {
+        "id": 324,
+        "title": "DD India",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDIND_BoxCover-v5/DDIND_BoxCover.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDIND_Poster-v4/DDIND_Poster.jpg",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DDIND_Thumbnail.png-v4/DDIND_Thumbnail.png.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "English"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000001274",
+            "1000000001",
+            "1000001208",
+            "1000001038",
+            "1000000468",
+            "1000001035"
+        ],
+        "genres": [
+            "News"
+        ],
+        "channelNumber": "622",
+        "dvbTriplet": "d2.24.E13",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD India.png",
+        "provider": "Doordarshan",
+        "logoVersion": 1,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000342",
+            "dashWidewinePlayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/manifest.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000342",
+            "fairplayUrl": "https://bpweb6.akamaized.net/bpk-tv/irdeto_com_Channel_508/output/index.m3u8"
         }
     },
     {
