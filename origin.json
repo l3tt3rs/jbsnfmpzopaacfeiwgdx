@@ -7170,7 +7170,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721012137~acl=/*~hmac=d0cfc666bac5ec6c5bae9bdedbd15c4e9fdd144b7fd0535e43ab53f81ef472ed"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721018150~acl=/*~hmac=060ac2f044b9df4a47fa5c2d124568dc51a7547393a3935d765e37175f1c7fec"
         }
     },
     {
@@ -8908,7 +8908,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721012380~acl=/*~hmac=d8d695aeaf331ffca85c4f6afc30077c3683dd8db967680f7428d6c96cb908e9"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721018391~acl=/*~hmac=3a037c57f71fc4bcd35da40f3b4065c0850aca476b370532656a53abb122f2d9"
         }
     },
     {
@@ -14062,6 +14062,46 @@
             "dashWidewinePlayUrl": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_817/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000567",
             "fairplayUrl": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_817/output/index.m3u8"
+        }
+    },
+    {
+        "id": 742,
+        "title": "Tata Play Aradhana",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TSARAD_BoxCover-v7/TSARAD_BoxCover.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TSARAD_Poster-v7/TSARAD_Poster.png",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TSARAD_Thumbnail-v6/TSARAD_Thumbnail.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Telugu",
+            "Kannada",
+            "Hindi",
+            "Tamil"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000000948",
+            "1000000630",
+            "1000000002",
+            "1000000446"
+        ],
+        "genres": [
+            "Devotional",
+            "Spiritual"
+        ],
+        "channelNumber": "1051",
+        "dvbTriplet": "d2.1F.C26",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Aradhana-Transparent.png",
+        "provider": "Tata Play Service",
+        "logoVersion": 46,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://delta45tatasky.akamaized.net/out/i/1543.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000798",
+            "dashWidewinePlayUrl": "https://delta45tatasky.akamaized.net/out/i/1542.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000798",
+            "fairplayUrl": "https://delta45tatasky.akamaized.net/out/i/1545.m3u8"
         }
     },
     {
@@ -33108,11 +33148,11 @@
         "provider": "TTN24 Broadcast Media Network Pvt Limited",
         "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://delta45tatasky.akamaized.net/out/i/1328.mpd",
+            "dashPlayreadyPlayUrl": "http://192.168.42.45/out/i/1328.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001245",
-            "dashWidewinePlayUrl": "https://delta45tatasky.akamaized.net/out/i/1327.mpd",
+            "dashWidewinePlayUrl": "http://192.168.42.45/out/i/1327.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001245",
-            "fairplayUrl": "https://delta45tatasky.akamaized.net/out/i/1325.m3u8"
+            "fairplayUrl": "http://192.168.42.45/out/i/1325.m3u8"
         }
     },
     {
