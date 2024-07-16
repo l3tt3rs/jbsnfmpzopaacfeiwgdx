@@ -1426,7 +1426,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ID-HD-LOGO_2000_X_1125_Transpharent.png",
         "provider": "Discovery",
-        "logoVersion": 5,
+        "logoVersion": 6,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_2056/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001420",
@@ -1447,29 +1447,29 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001707",
-            "1000001104",
-            "1000000588",
+            "1000001079",
+            "1000001087",
+            "1000001537",
+            "1000000985",
+            "1000000050",
+            "1000001542",
             "1000001269",
             "1000001084",
-            "1000000803",
-            "1000001079",
-            "1000000985",
-            "1000001275",
             "1000001278",
             "1000001560",
-            "1000000050",
-            "1000000001",
-            "1000001342",
-            "1000001523",
-            "1000001087",
-            "1000001542",
-            "1000000906",
-            "1000001225",
             "1000002227",
-            "1000000589",
+            "1000001225",
+            "1000000906",
             "1000001035",
-            "1000001537"
+            "1000000588",
+            "1000001342",
+            "1000000803",
+            "1000001523",
+            "1000001275",
+            "1000000001",
+            "1000001104",
+            "1000001707",
+            "1000000589"
         ],
         "genres": [
             "Entertainment"
@@ -1481,13 +1481,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Investigation Discovery.png",
         "provider": "Discovery",
-        "logoVersion": 2,
+        "logoVersion": 3,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000662",
-            "dashWidewinePlayUrl": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000662",
-            "fairplayUrl": "https://bpweb7.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/index.m3u8"
+            "fairplayUrl": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_867/output/index.m3u8"
         }
     },
     {
@@ -7175,7 +7175,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721125819~acl=/*~hmac=25ee66a5ad942229e61c25d1f97a180c1fb93b3c826b912156b6a1010adcfd0e"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721133457~acl=/*~hmac=db888aaa89b9f73e4343ebdd22c961b42fcf35aac914f20ec441b65b71265d5d"
         }
     },
     {
@@ -8913,7 +8913,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721126050~acl=/*~hmac=42443d9ad2e105d26564dab0b9b2420825302511e2ec81d175bda3071a907ecf"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721133700~acl=/*~hmac=297834670b0ef50504f1a9c52478835f842a7d5e2a21fceecb6be0410a56d01c"
         }
     },
     {
