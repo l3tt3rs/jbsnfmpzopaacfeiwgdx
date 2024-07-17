@@ -7175,7 +7175,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721241235~acl=/*~hmac=5635be86bcff3ca27b6a5e16deb2b5593405f4b2b31dc7d2e75f21de9e21ede1"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721248305~acl=/*~hmac=df6597e5041b4baddf7f7aa6dbd99801fb8805845daa808f0efe626bdc71a9ec"
         }
     },
     {
@@ -8913,7 +8913,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721241475~acl=/*~hmac=781badb993613fedfd68e7866371eb05bbeaf9b49bec3810fb6b62e9452ae690"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721248545~acl=/*~hmac=5cf2e6a04f3c2e4f12595668c98171b39506429bfb06cd4b3c152058249f1935"
         }
     },
     {
@@ -30298,9 +30298,9 @@
     {
         "id": 47,
         "title": "Jonack TV",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JONTV_BoxCover-v2/JONTV_BoxCover.png",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JONTV_Poster-v2/JONTV_Poster.png",
-        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JONTV_Thumbnail-v2/JONTV_Thumbnail.png",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NTV_BoxCover-v6/NTV_BoxCover.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NTV_Poster-v3/NTV_Poster.png",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/JONTV_Thumbnail-v3/JONTV_Thumbnail.png",
         "contentType": "LIVE",
         "subTitles": [
             "Assamese"
@@ -30308,8 +30308,8 @@
         "contractName": "SUBSCRIPTION",
         "entitlements": [
             "1000000539",
-            "1000001368",
-            "1000000002"
+            "1000000002",
+            "1000001368"
         ],
         "genres": [
             "Others",
@@ -30322,7 +30322,7 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/JONACK-ORIGINAL-LOGO_2000_X_1125_Transpharent.png",
         "provider": "Jonack TV",
-        "logoVersion": 9,
+        "logoVersion": 16,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_371/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000045",
@@ -32080,6 +32080,41 @@
             "dashWidewinePlayUrl": "https://cable88tataplay.akamaized.net/live/anandhamtv/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001505",
             "fairplayUrl": "https://cable88tataplay.akamaized.net/live/anandhamtv/index.m3u8"
+        }
+    },
+    {
+        "id": 1382,
+        "title": "DHARSAN TV",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DHARSANTV_BoxCover-v1/DHARSANTV_BoxCover.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DHARSANTV_Poster-v1/DHARSANTV_Poster.png",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DHARSANTV_Thumbnail-v1/DHARSANTV_Thumbnail.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Tamil"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000001035",
+            "1000001038",
+            "1000001274"
+        ],
+        "genres": [
+            "Spiritual"
+        ],
+        "channelNumber": "2037",
+        "dvbTriplet": "",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DHARSHAN-TV-logo_2000_X_1125_Transpharent.png",
+        "provider": "DHARSAN TV",
+        "logoVersion": 1,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://cable91tataplay.akamaized.net/live/dharshantv/index.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001506",
+            "dashWidewinePlayUrl": "https://cable91tataplay.akamaized.net/live/dharshantv/index.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001506",
+            "fairplayUrl": "https://cable91tataplay.akamaized.net/live/dharshantv/index.m3u8"
         }
     },
     {
@@ -34027,6 +34062,76 @@
             "dashWidewinePlayUrl": "https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001400",
             "fairplayUrl": "https://cable69tataplay.akamaized.net/JeewanBhakti/myStream/playlist.m3u8"
+        }
+    },
+    {
+        "id": 1383,
+        "title": "NIJAM TV",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NIJAMTV_BoxCover-v1/NIJAMTV_BoxCover.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NIJAMTV_Poster-v1/NIJAMTV_Poster.png",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NIJAMTV_Thumbnail-v1/NIJAMTV_Thumbnail.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Tamil"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000001035",
+            "1000001274",
+            "1000001038"
+        ],
+        "genres": [
+            "Spiritual"
+        ],
+        "channelNumber": "2100",
+        "dvbTriplet": "",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NIJAM-TV-logo_2000_X_1125_Transpharent.png",
+        "provider": "NIJAM TV",
+        "logoVersion": 1,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://cable90tataplay.akamaized.net/live/nijamtv/index.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001507",
+            "dashWidewinePlayUrl": "https://cable90tataplay.akamaized.net/live/nijamtv/index.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001507",
+            "fairplayUrl": "https://cable90tataplay.akamaized.net/live/nijamtv/index.m3u8"
+        }
+    },
+    {
+        "id": 1384,
+        "title": "SURIYAN TV",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SURIYANTV_BoxCover-v1/SURIYANTV_BoxCover.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SURIYANTV_Poster-v1/SURIYANTV_Poster.png",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SURIYANTV_Thumbnail-v1/SURIYANTV_Thumbnail.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Tamil"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000001035",
+            "1000001038",
+            "1000001274"
+        ],
+        "genres": [
+            "Entertainment"
+        ],
+        "channelNumber": "2102",
+        "dvbTriplet": "",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Suriyan-tv-logo_2000_X_1125_Transpharent.png",
+        "provider": "SURIYAN TV",
+        "logoVersion": 1,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://cable86tataplay.akamaized.net/live/suriyantv/index.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001509",
+            "dashWidewinePlayUrl": "https://cable86tataplay.akamaized.net/live/suriyantv/index.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001509",
+            "fairplayUrl": "https://cable86tataplay.akamaized.net/live/suriyantv/index.m3u8"
         }
     },
     {
