@@ -6863,11 +6863,11 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001035",
             "1000002321",
-            "1000001274",
+            "1000001038",
             "1000000001",
-            "1000001038"
+            "1000001274",
+            "1000001035"
         ],
         "genres": [
             "News"
@@ -6879,7 +6879,7 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Har-Ghar-Start-up_logo-Transparent.png",
         "provider": "Tata Play Ltd.",
-        "logoVersion": 5,
+        "logoVersion": 6,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001220",
@@ -7178,7 +7178,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721378022~acl=/*~hmac=868311e13669b660ef50fa7276701108044b08721defb7eaf908e04268aeecc2"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721385078~acl=/*~hmac=b89ea982e8c4251a2d855ae6a990bc7976c9141b04413fa265605297b4fd5e24"
         }
     },
     {
@@ -8916,7 +8916,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721378265~acl=/*~hmac=4239e3df0598bd1ea7241d91c1e5dfba7353d094e346527244c2044d7dee3e91"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721385321~acl=/*~hmac=c70faf73fe702a0a9c5cca37c62d56cf4874824bdccd5e060d99a9131255f842"
         }
     },
     {
@@ -32095,10 +32095,10 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001035",
-            "1000000001",
             "1000001274",
-            "1000001038"
+            "1000001038",
+            "1000000001",
+            "1000001035"
         ],
         "genres": [
             "Devotional",
@@ -32111,7 +32111,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata-Play-Darshan-Transparent.png",
         "provider": "Tata Communications Ltd.",
-        "logoVersion": 2,
+        "logoVersion": 3,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://delta45webtatasky.akamaized.net/out/i/1300.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000974",
