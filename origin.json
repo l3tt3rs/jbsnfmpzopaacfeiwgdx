@@ -1999,63 +1999,6 @@
         }
     },
     {
-        "id": 888,
-        "title": "Ishara",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_BoxCover-v2/Ishara_BoxCover.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Poster-v2/Ishara_Poster.jpg",
-        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png",
-        "contentType": "LIVE",
-        "subTitles": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "entitlements": [
-            "1000001035",
-            "1000000001",
-            "1000001877",
-            "1000001079",
-            "1000001874",
-            "1000001084",
-            "1000001102",
-            "1000001834",
-            "1000001105",
-            "1000001363",
-            "1000001876",
-            "1000000803",
-            "1000001114",
-            "1000001097",
-            "1000001703",
-            "1000001095",
-            "1000001482",
-            "1000001038",
-            "1000001104",
-            "1000001875",
-            "1000000050",
-            "1000001100",
-            "1000001873",
-            "1000002206",
-            "1000000795"
-        ],
-        "genres": [
-            "Entertainment"
-        ],
-        "channelNumber": "182",
-        "dvbTriplet": "d2.20.C82",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Ishara-LOGO_2000_X_1125_Transpharent.png",
-        "provider": "IN10 MEDIA PVT LTD",
-        "logoVersion": 2,
-        "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
-            "dashWidewinePlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
-            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
-            "fairplayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/index.m3u8"
-        }
-    },
-    {
         "id": 874,
         "title": "Deployment channel 19.0",
         "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ch7003_BoxCover-v1/ch7003_BoxCover.jpg",
@@ -2150,6 +2093,63 @@
             "dashWidewinePlayUrl": "https://tataskyvod.pc.cdn.bitgravity.com/delta14/out/i/7976503.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001019",
             "fairplayUrl": "https://tataskyvod.pc.cdn.bitgravity.com/delta14/out/i/7976506.m3u8"
+        }
+    },
+    {
+        "id": 888,
+        "title": "Ishara",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_BoxCover-v2/Ishara_BoxCover.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Poster-v2/Ishara_Poster.jpg",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000001035",
+            "1000000001",
+            "1000001877",
+            "1000001079",
+            "1000001874",
+            "1000001084",
+            "1000001102",
+            "1000001834",
+            "1000001105",
+            "1000001363",
+            "1000001876",
+            "1000000803",
+            "1000001114",
+            "1000001097",
+            "1000001703",
+            "1000001095",
+            "1000001482",
+            "1000001038",
+            "1000001104",
+            "1000001875",
+            "1000000050",
+            "1000001100",
+            "1000001873",
+            "1000002206",
+            "1000000795"
+        ],
+        "genres": [
+            "Entertainment"
+        ],
+        "channelNumber": "182",
+        "dvbTriplet": "d2.20.C82",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Ishara-LOGO_2000_X_1125_Transpharent.png",
+        "provider": "IN10 MEDIA PVT LTD",
+        "logoVersion": 2,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
+            "dashWidewinePlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
+            "fairplayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/index.m3u8"
         }
     },
     {
@@ -7178,7 +7178,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721759646~acl=/*~hmac=ca70659cbd8c6065fe91e6cfeba5ba234279c8697603d1dcbbd5525f522633d6"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721766707~acl=/*~hmac=1c41a2ca0f26e00de091bc6e5fc6c3f5eccf81dc94821b04baad20188b368aaf"
         }
     },
     {
@@ -8916,7 +8916,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721759887~acl=/*~hmac=23d7574bc1a58928d7122537144a71d5b515fc0288b726e08359f98aabb523d1"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721766949~acl=/*~hmac=5a26cd81eba117e9d7b9e19c50d833cf6db1361383efb5ff265dfc17180fc5a7"
         }
     },
     {
