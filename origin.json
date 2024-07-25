@@ -1999,6 +1999,63 @@
         }
     },
     {
+        "id": 888,
+        "title": "Ishara",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_BoxCover-v2/Ishara_BoxCover.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Poster-v2/Ishara_Poster.jpg",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000001035",
+            "1000000001",
+            "1000001877",
+            "1000001079",
+            "1000001874",
+            "1000001084",
+            "1000001102",
+            "1000001834",
+            "1000001105",
+            "1000001363",
+            "1000001876",
+            "1000000803",
+            "1000001114",
+            "1000001097",
+            "1000001703",
+            "1000001095",
+            "1000001482",
+            "1000001038",
+            "1000001104",
+            "1000001875",
+            "1000000050",
+            "1000001100",
+            "1000001873",
+            "1000002206",
+            "1000000795"
+        ],
+        "genres": [
+            "Entertainment"
+        ],
+        "channelNumber": "182",
+        "dvbTriplet": "d2.20.C82",
+        "hdChannel": false,
+        "restartTv": true,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Ishara-LOGO_2000_X_1125_Transpharent.png",
+        "provider": "IN10 MEDIA PVT LTD",
+        "logoVersion": 2,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
+            "dashWidewinePlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
+            "fairplayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/index.m3u8"
+        }
+    },
+    {
         "id": 874,
         "title": "Deployment channel 19.0",
         "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ch7003_BoxCover-v1/ch7003_BoxCover.jpg",
@@ -2093,63 +2150,6 @@
             "dashWidewinePlayUrl": "https://tataskyvod.pc.cdn.bitgravity.com/delta14/out/i/7976503.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001019",
             "fairplayUrl": "https://tataskyvod.pc.cdn.bitgravity.com/delta14/out/i/7976506.m3u8"
-        }
-    },
-    {
-        "id": 888,
-        "title": "Ishara",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_BoxCover-v2/Ishara_BoxCover.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Poster-v2/Ishara_Poster.jpg",
-        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/Ishara_Thumbnail-v3/Ishara_Thumbnail.png",
-        "contentType": "LIVE",
-        "subTitles": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "entitlements": [
-            "1000001035",
-            "1000000001",
-            "1000001877",
-            "1000001079",
-            "1000001874",
-            "1000001084",
-            "1000001102",
-            "1000001834",
-            "1000001105",
-            "1000001363",
-            "1000001876",
-            "1000000803",
-            "1000001114",
-            "1000001097",
-            "1000001703",
-            "1000001095",
-            "1000001482",
-            "1000001038",
-            "1000001104",
-            "1000001875",
-            "1000000050",
-            "1000001100",
-            "1000001873",
-            "1000002206",
-            "1000000795"
-        ],
-        "genres": [
-            "Entertainment"
-        ],
-        "channelNumber": "182",
-        "dvbTriplet": "d2.20.C82",
-        "hdChannel": false,
-        "restartTv": true,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Ishara-LOGO_2000_X_1125_Transpharent.png",
-        "provider": "IN10 MEDIA PVT LTD",
-        "logoVersion": 2,
-        "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
-            "dashWidewinePlayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/manifest.mpd",
-            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001036",
-            "fairplayUrl": "https://bpweb2.akamaized.net/bpk-tv/irdeto_com_Channel_1300/output/index.m3u8"
         }
     },
     {
@@ -3769,10 +3769,10 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000002",
-            "1000001368",
             "1000000001",
-            "1000001514"
+            "1000001514",
+            "1000001368",
+            "1000000002"
         ],
         "genres": [
             "Movies"
@@ -3784,13 +3784,13 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/B4U-Kadak-BLACK-transparent.png",
         "provider": "Ashirwad Telenetwork Pvt. Ltd.",
-        "logoVersion": 2,
+        "logoVersion": 3,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000785",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000785",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_957/output/index.m3u8"
         }
     },
     {
@@ -7178,7 +7178,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721860283~acl=/*~hmac=8c36633252f51d65049e6f362d25c56bbed79e8f2d73809a4e140269905c7fa1"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1721869306~acl=/*~hmac=d0ea3d65ab2d71fcb2d2d96d62c0cd0f8a617110e6c1417ba9934b9109ab228d"
         }
     },
     {
@@ -7770,10 +7770,10 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001368",
-            "1000000001",
             "1000000002",
-            "1000001696"
+            "1000001696",
+            "1000001368",
+            "1000000001"
         ],
         "genres": [
             "News"
@@ -7785,13 +7785,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/India Voice.png",
         "provider": "Bhavya Broadcasting Pvt Ltd",
-        "logoVersion": 3,
+        "logoVersion": 4,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000728",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000728",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/index.m3u8"
         }
     },
     {
@@ -7843,11 +7843,11 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000001",
             "1000000712",
-            "1000001035",
+            "1000000077",
             "1000001368",
-            "1000000077"
+            "1000000001",
+            "1000001035"
         ],
         "genres": [
             "News"
@@ -7859,13 +7859,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Hindi Khabar.png",
         "provider": "MBizTech Consulting Pvt Ltd",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000382",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000382",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_564/output/index.m3u8"
         }
     },
     {
@@ -8916,7 +8916,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721860524~acl=/*~hmac=ef38b1ea9d6b9976f7d9e164e9b1e8832be51c4cd09c744a442570cf4300e9eb"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1721869537~acl=/*~hmac=37d47fd91e6c11ecb5a016ea115b0bbc1b7c52a2a994febee44ac8a46a59478a"
         }
     },
     {
@@ -13399,11 +13399,11 @@
         "provider": "TV18",
         "logoVersion": 8,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000104",
-            "dashWidewinePlayUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000104",
-            "fairplayUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/index.m3u8"
         }
     },
     {
@@ -13717,11 +13717,11 @@
         "provider": "Viacom",
         "logoVersion": 9,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000249",
-            "dashWidewinePlayUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000249",
-            "fairplayUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_402/output/index.m3u8"
         }
     },
     {
@@ -14730,10 +14730,10 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000001",
-            "1000001368",
             "1000000002",
-            "1000001686"
+            "1000001686",
+            "1000000001",
+            "1000001368"
         ],
         "genres": [
             "Devotional",
@@ -14746,13 +14746,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Awakening-logo-transparent.png",
         "provider": "Graphisads Private Limited",
-        "logoVersion": 2,
+        "logoVersion": 3,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001087",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001087",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1184/output/index.m3u8"
         }
     },
     {
@@ -14767,10 +14767,10 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001368",
-            "1000000001",
             "1000000002",
-            "1000001890"
+            "1000001890",
+            "1000000001",
+            "1000001368"
         ],
         "genres": [
             "Spiritual"
@@ -14782,13 +14782,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Santwani_logo-transparent-.png",
         "provider": "Exclusive Vision Media Pvt. Ltd.",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001062",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001062",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1316/output/index.m3u8"
         }
     },
     {
@@ -15162,9 +15162,9 @@
         "contractName": "SUBSCRIPTION",
         "entitlements": [
             "1000000001",
-            "1000001513",
-            "1000001523",
             "1000001368",
+            "1000001523",
+            "1000001513",
             "1000000002"
         ],
         "genres": [
@@ -15178,13 +15178,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/B4U-BHOJPURI-LOGO-transparent.png",
         "provider": "Ashirwad Telenetwork Pvt. Ltd.",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000788",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000788",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_959/output/index.m3u8"
         }
     },
     {
@@ -15216,11 +15216,11 @@
         "provider": "M/s.COBOL Communication Private Limited",
         "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001048",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001048",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1309/output/index.m3u8"
         }
     },
     {
@@ -15257,42 +15257,6 @@
             "dashWidewinePlayUrl": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1947/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001309",
             "fairplayUrl": "https://bpweb5.akamaized.net/bpk-tv/irdeto_com_Channel_1947/output/index.m3u8"
-        }
-    },
-    {
-        "id": 838,
-        "title": "Kashish News",
-        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56321-kf6ahgq0-v2/imageContent-56321-kf6ahgq0-m3.jpg",
-        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56322-kf6ahi9k-v2/imageContent-56322-kf6ahi9k-m3.jpg",
-        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png",
-        "contentType": "LIVE",
-        "subTitles": [
-            "Hindi"
-        ],
-        "contractName": "SUBSCRIPTION",
-        "entitlements": [
-            "1000000002",
-            "1000000001",
-            "1000000425",
-            "1000001523"
-        ],
-        "genres": [
-            "News"
-        ],
-        "channelNumber": "1139",
-        "dvbTriplet": "d2.20.CB5",
-        "hdChannel": false,
-        "restartTv": false,
-        "isCloudDvr": true,
-        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kashish News.png",
-        "provider": "Kashish Developers Limited",
-        "logoVersion": 1,
-        "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd",
-            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000972",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd",
-            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000972",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/index.m3u8"
         }
     },
     {
@@ -15363,6 +15327,42 @@
             "dashWidewinePlayUrl": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_352/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000075",
             "fairplayUrl": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_352/output/index.m3u8"
+        }
+    },
+    {
+        "id": 838,
+        "title": "Kashish News",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56321-kf6ahgq0-v2/imageContent-56321-kf6ahgq0-m3.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56322-kf6ahi9k-v2/imageContent-56322-kf6ahi9k-m3.jpg",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000000002",
+            "1000000001",
+            "1000001523",
+            "1000000425"
+        ],
+        "genres": [
+            "News"
+        ],
+        "channelNumber": "1139",
+        "dvbTriplet": "d2.20.CB5",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": true,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kashish News.png",
+        "provider": "Kashish Developers Limited",
+        "logoVersion": 2,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000972",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000972",
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/index.m3u8"
         }
     },
     {
@@ -15645,10 +15645,10 @@
         "contractName": "SUBSCRIPTION",
         "entitlements": [
             "1000001761",
-            "1000000002",
-            "1000000001",
+            "1000001523",
             "1000001368",
-            "1000001523"
+            "1000000002",
+            "1000000001"
         ],
         "genres": [
             "News"
@@ -15660,13 +15660,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sadhna Plus News.png",
         "provider": "Sadhna Broadcast Limited",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000948",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000948",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1124/output/index.m3u8"
         }
     },
     {
@@ -16108,8 +16108,8 @@
             "1000001368",
             "1000000002",
             "1000000930",
-            "1000001523",
-            "1000000001"
+            "1000000001",
+            "1000001523"
         ],
         "genres": [
             "News"
@@ -16121,13 +16121,13 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Bansal-News-transparent.png",
         "provider": "SD Bansal Pvt Ltd",
-        "logoVersion": 2,
+        "logoVersion": 3,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000690",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000690",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_885/output/index.m3u8"
         }
     },
     {
@@ -16294,11 +16294,11 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000002",
-            "1000000001",
             "1000001762",
             "1000001523",
-            "1000001368"
+            "1000001368",
+            "1000000002",
+            "1000000001"
         ],
         "genres": [
             "News"
@@ -16310,13 +16310,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sadhna News MP CG.png",
         "provider": "Sadhna Broadcast Limited",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000944",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000944",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1122/output/index.m3u8"
         }
     },
     {
@@ -16368,10 +16368,10 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001368",
+            "1000000002",
             "1000000001",
             "1000001889",
-            "1000000002"
+            "1000001368"
         ],
         "genres": [
             "Regional"
@@ -16383,13 +16383,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Anaadi-TV-HINDI-transparent.png",
         "provider": "Asnani Builders & Developers Ltd.",
-        "logoVersion": 3,
+        "logoVersion": 4,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001088",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001088",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1333/output/index.m3u8"
         }
     },
     {
@@ -17180,12 +17180,12 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000001",
+            "1000000519",
             "1000001247",
             "1000001035",
-            "1000001038",
             "1000001523",
-            "1000000519"
+            "1000001038",
+            "1000000001"
         ],
         "genres": [
             "Regional",
@@ -17198,13 +17198,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Channel-Win-transparent.png",
         "provider": "WIN TV Pvt Ltd.",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_354/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_354/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000179",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_354/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_354/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000179",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_354/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_354/output/index.m3u8"
         }
     },
     {
@@ -17219,11 +17219,11 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
+            "1000000002",
+            "1000001247",
             "1000000001",
             "1000000711",
-            "1000001523",
-            "1000001247",
-            "1000000002"
+            "1000001523"
         ],
         "genres": [
             "Regional",
@@ -17236,13 +17236,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Gulistan-News-transparent.png",
         "provider": "Gulistan Network Pvt Ltd",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_557/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_557/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000379",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_557/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_557/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000379",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_557/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_557/output/index.m3u8"
         }
     },
     {
@@ -18231,11 +18231,11 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001523",
-            "1000000001",
             "1000000002",
-            "1000001368",
-            "1000001756"
+            "1000001756",
+            "1000000001",
+            "1000001523",
+            "1000001368"
         ],
         "genres": [
             "Regional"
@@ -18247,13 +18247,13 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/LokshahiS-transparent.png",
         "provider": "Yash Satellite Pvt Ltd",
-        "logoVersion": 9,
+        "logoVersion": 10,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1121/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1121/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000940",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1121/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1121/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000940",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1121/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1121/output/index.m3u8"
         }
     },
     {
@@ -18526,11 +18526,11 @@
         "provider": "Viacom",
         "logoVersion": 8,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000025",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000025",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_283/output/index.m3u8"
         }
     },
     {
@@ -19316,11 +19316,11 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001368",
             "1000000002",
+            "1000001820",
+            "1000001368",
             "1000000001",
-            "1000001523",
-            "1000001820"
+            "1000001523"
         ],
         "genres": [
             "Regional",
@@ -19333,13 +19333,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/TV9-Bangla1.png",
         "provider": "Associated Broadcasting Company Pvt Ltd",
-        "logoVersion": 2,
+        "logoVersion": 3,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001018",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001018",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1149/output/index.m3u8"
         }
     },
     {
@@ -21468,10 +21468,10 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000618",
-            "1000000002",
+            "1000001523",
             "1000001368",
-            "1000001523"
+            "1000000618",
+            "1000000002"
         ],
         "genres": [
             "Regional",
@@ -21484,13 +21484,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/10tv_Logo-transparent.png",
         "provider": "Spoorthi Communications",
-        "logoVersion": 4,
+        "logoVersion": 5,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000280",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000280",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_433/output/index.m3u8"
         }
     },
     {
@@ -21994,11 +21994,11 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
+            "1000000619",
+            "1000000002",
             "1000000001",
             "1000001368",
-            "1000001523",
-            "1000000002",
-            "1000000619"
+            "1000001523"
         ],
         "genres": [
             "Devotional",
@@ -22012,13 +22012,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ARADANA-TV-LOGO-transparent.png",
         "provider": "Aradana Broadcast International Pvt Ltd",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000298",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000298",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_460/output/index.m3u8"
         }
     },
     {
@@ -24454,12 +24454,12 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
+            "1000001035",
+            "1000001523",
+            "1000000278",
             "1000001247",
             "1000000001",
-            "1000000278",
-            "1000001035",
-            "1000001384",
-            "1000001523"
+            "1000001384"
         ],
         "genres": [
             "Devotional",
@@ -24473,13 +24473,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Angel-TV-hd-transparent.png",
         "provider": "Trinity Television Pvt. Ltd.",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000300",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000300",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_456/output/index.m3u8"
         }
     },
     {
@@ -25071,12 +25071,12 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000001",
+            "1000001035",
+            "1000000263",
+            "1000001523",
             "1000001247",
             "1000001382",
-            "1000000263",
-            "1000001035",
-            "1000001523"
+            "1000000001"
         ],
         "genres": [
             "Regional",
@@ -25089,13 +25089,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Jeevan TV.png",
         "provider": "Jeevan Telecasting Corporation Ltd",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000392",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000392",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/index.m3u8"
         }
     },
     {
@@ -26126,12 +26126,12 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001247",
-            "1000001035",
+            "1000001523",
             "1000000944",
-            "1000001368",
+            "1000001035",
             "1000000001",
-            "1000001523"
+            "1000001368",
+            "1000001247"
         ],
         "genres": [
             "Regional",
@@ -26144,13 +26144,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/AYTV_transparent.png",
         "provider": "Others",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000698",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000698",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/index.m3u8"
         }
     },
     {
@@ -27423,10 +27423,10 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001865",
-            "1000000001",
+            "1000000002",
             "1000001368",
-            "1000000002"
+            "1000001865",
+            "1000000001"
         ],
         "genres": [
             "Regional",
@@ -27439,13 +27439,13 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ARGN_transparent.png",
         "provider": "Pratham Broadcast India Pvt. Ltd",
-        "logoVersion": 5,
+        "logoVersion": 6,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001058",
-            "dashWidewinePlayUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001058",
-            "fairplayUrl": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/index.m3u8"
         }
     },
     {
@@ -28654,12 +28654,12 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
+            "1000001247",
             "1000000436",
+            "1000001035",
             "1000001523",
             "1000000001",
-            "1000001247",
-            "1000001382",
-            "1000001035"
+            "1000001382"
         ],
         "genres": [
             "Entertainment"
@@ -28671,13 +28671,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Janam TV.png",
         "provider": "Janam Multimedia Ltd",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000284",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000284",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_584/output/index.m3u8"
         }
     },
     {
@@ -29661,11 +29661,11 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000598",
-            "1000000002",
             "1000000001",
             "1000001523",
-            "1000001368"
+            "1000000002",
+            "1000001368",
+            "1000000598"
         ],
         "genres": [
             "News"
@@ -29677,13 +29677,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Janta TV.png",
         "provider": "Legends Travels Pvt Ltd",
-        "logoVersion": 2,
+        "logoVersion": 3,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000391",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000391",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/index.m3u8"
         }
     },
     {
@@ -29774,11 +29774,11 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000001",
             "1000000002",
-            "1000001523",
+            "1000000001",
+            "1000001619",
             "1000001368",
-            "1000001619"
+            "1000001523"
         ],
         "genres": [
             "Regional",
@@ -29791,13 +29791,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Living-India-News-transparent.png",
         "provider": "BPL Media Limited",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000996",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000996",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/index.m3u8"
         }
     },
     {
@@ -30157,11 +30157,11 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000000001",
-            "1000000002",
             "1000001523",
+            "1000001544",
+            "1000000001",
             "1000001383",
-            "1000001544"
+            "1000000002"
         ],
         "genres": [
             "Devotional",
@@ -30175,13 +30175,13 @@
         "isCloudDvr": true,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/PTC Simran.png",
         "provider": "G-Next Media Private Limited",
-        "logoVersion": 1,
+        "logoVersion": 2,
         "streamData": {
-            "dashPlayreadyPlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_968/output/manifest.mpd",
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_968/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000855",
-            "dashWidewinePlayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_968/output/manifest.mpd",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_968/output/manifest.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000855",
-            "fairplayUrl": "https://bpweb1.akamaized.net/bpk-tv/irdeto_com_Channel_968/output/index.m3u8"
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_968/output/index.m3u8"
         }
     },
     {
