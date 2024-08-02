@@ -7100,7 +7100,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1722573165~acl=/*~hmac=3ff482503c2834d56abb66847da67719eab6c916138c1ba4a7f00a1da1aebf1e"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1722580525~acl=/*~hmac=1e1e86255466ee3314c17a5b1564c28854453b24c60ef46f27d769144d405dcc"
         }
     },
     {
@@ -8823,7 +8823,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1722573397~acl=/*~hmac=f538eddc67968e14711efa6ee288eda540d9c5481c13852169797057815ce16d"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1722580755~acl=/*~hmac=43b60455df48592487398410274842fb84717f0182ca2883345c8b5d0d76a643"
         }
     },
     {
@@ -18577,12 +18577,12 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001035",
-            "1000000001",
-            "1000000203",
             "1000001523",
+            "1000000001",
+            "1000001380",
             "1000001247",
-            "1000001380"
+            "1000001035",
+            "1000000203"
         ],
         "genres": [
             "Regional",
@@ -18595,7 +18595,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Aakash Aath.png",
         "provider": "Sky B (Bangla)",
-        "logoVersion": 5,
+        "logoVersion": 6,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_210/output/manifest.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000084",
