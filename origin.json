@@ -7136,7 +7136,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1722839702~acl=/*~hmac=12cb011738456ddec7ea86494dd3905d530c7c5ad8598c3b607a463da16e8ecc"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1722846868~acl=/*~hmac=6f132830b149e7d6bf32c90e732ab67de559c5fc96df9be95aba6889a0e601b8"
         }
     },
     {
@@ -8859,7 +8859,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1722839943~acl=/*~hmac=74bf4fd63b05db6316c711cace1f667798c0cfbc61f48c7c2e32b0ba7d5066cb"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1722847109~acl=/*~hmac=32d798114757b14068da96f7c14ff6e3dcdf02468ff885c377f8ef61cd766d43"
         }
     },
     {
@@ -31752,9 +31752,9 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001274",
             "1000001038",
-            "1000001035"
+            "1000001035",
+            "1000001274"
         ],
         "genres": [
             "Spiritual"
@@ -31766,7 +31766,7 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangam_2000_X_1125_Transpharent.png",
         "provider": "Sangam TV",
-        "logoVersion": 8,
+        "logoVersion": 9,
         "streamData": {
             "dashPlayreadyPlayUrl": "https://stream.mediasolution.cloud:8088/dash/sangam.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001403",
