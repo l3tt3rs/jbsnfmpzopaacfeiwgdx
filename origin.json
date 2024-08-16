@@ -7147,7 +7147,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1723804297~acl=/*~hmac=b9b1c194b9b41fbdba88fb064340659b0c9ce27b78b3cf28e6edca8573ad14b1"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1723811904~acl=/*~hmac=69bfada44585ea9d2b2858174359d998430f91e43828b93deffef562242c1990"
         }
     },
     {
@@ -8886,7 +8886,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1723804539~acl=/*~hmac=fd85e637911b551bbee4344a6b729c1cb32c6c1bc325290baf4333e824c4c318"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1723812145~acl=/*~hmac=f2b1666593988b017e483567c2b18018caac272d04c8f8e5dac8bf73564df30c"
         }
     },
     {
@@ -19258,7 +19258,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001038",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-323611/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001038",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=tataplay&hdnea=exp=1723805746~acl=/*~hmac=fae0fbb72bed41f35c5b70305356b6753a00f06a4b2283139c3331b36b421316"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=tataplay&hdnea=exp=1723813351~acl=/*~hmac=e30d856fb8e54f1b2b8b677d3bdf7f34b8d9fd23ff939e402d440eb8e2855322"
         }
     },
     {
@@ -34326,6 +34326,41 @@
             "dashWidewinePlayUrl": "https://server.thelegitpro.in/bhakthisiri/bhakthisiri/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001516",
             "fairplayUrl": "https://server.thelegitpro.in/bhakthisiri/bhakthisiri/index.m3u8"
+        }
+    },
+    {
+        "id": 1393,
+        "title": "In24 Live News",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/IN24LVNEWS_BoxCover-v1/IN24LVNEWS_BoxCover.png",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/IN24LVNEWS_Poster-v1/IN24LVNEWS_Poster.png",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/IN24LVNEWS_Thumbnail-v1/IN24LVNEWS_Thumbnail.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Hindi"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000001035",
+            "1000001274",
+            "1000001038"
+        ],
+        "genres": [
+            "News"
+        ],
+        "channelNumber": "2107",
+        "dvbTriplet": "",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/IN24Live2000x1125-transparent.png",
+        "provider": "In24 Live News",
+        "logoVersion": 2,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://cable11tatasky.akamaized.net/manifest.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001517",
+            "dashWidewinePlayUrl": "https://cable11tatasky.akamaized.net/manifest.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001517",
+            "fairplayUrl": "https://cable10tatasky.akamaized.net/hls/in24live/index.m3u8"
         }
     },
     {
