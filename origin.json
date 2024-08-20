@@ -7147,7 +7147,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1724128485~acl=/*~hmac=1dc5984ba76eaec32540505cc1ff561fb330f2ccd4d126577e79a495fe8b92e5"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1724135667~acl=/*~hmac=1f71479d6d831e1e09f84b6e340a9137548924b86b884a51387e64949b5fa52c"
         }
     },
     {
@@ -8886,7 +8886,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1724128726~acl=/*~hmac=25ebaffb1a8f1c3afe8a3ef62f13f79f6c7c08f85b96474bd39223ef43aa0d6a"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1724135910~acl=/*~hmac=3f889d0fb000a5715459f2adca4f3a0061b4aef1b9114fea4a5c68e92a95f55f"
         }
     },
     {
@@ -19258,7 +19258,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001038",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-323611/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001038",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=tataplay&hdnea=exp=1724129929~acl=/*~hmac=6725cfa249dab6945519d4793179608e724f9fc3b8ab7191adca12bfe23b2d9a"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=tataplay&hdnea=exp=1724137113~acl=/*~hmac=0803951f39eda332e46ddaedf986fefa79ce660eb2d59ceaf54a91b370443669"
         }
     },
     {
@@ -31168,10 +31168,10 @@
         ],
         "contractName": "SUBSCRIPTION",
         "entitlements": [
-            "1000001274",
-            "1000000001",
+            "1000001035",
             "1000001038",
-            "1000001035"
+            "1000000001",
+            "1000001274"
         ],
         "genres": [
             "News"
@@ -31183,13 +31183,13 @@
         "isCloudDvr": false,
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Prime-TV-Logo_2000_X_1125_Transpharent.png",
         "provider": "Overthetop Live Private limited",
-        "logoVersion": 7,
+        "logoVersion": 9,
         "streamData": {
-            "dashPlayreadyPlayUrl": "dummy",
+            "dashPlayreadyPlayUrl": "https://cable71tataplay.akamaized.net/primetv/primetv/index.mpd",
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001422",
-            "dashWidewinePlayUrl": "dummy",
+            "dashWidewinePlayUrl": "https://cable71tataplay.akamaized.net/primetv/primetv/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001422",
-            "fairplayUrl": "dummy"
+            "fairplayUrl": "https://cable71tataplay.akamaized.net/primetv/primetv/index.m3u8"
         }
     },
     {
