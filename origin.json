@@ -7188,7 +7188,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-791089/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000740",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1725345288~acl=/*~hmac=1a2a6dc1637caec72b4081c9f54a986357007b7cd4ad3010434a7e3d090d400e"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/main.m3u8?ads.partner=tataplay&hdnea=exp=1725352447~acl=/*~hmac=ebdf2b6e610bf1717c7faf430a79915ad2d405ab6a81362eaea8ae611835076c"
         }
     },
     {
@@ -8939,7 +8939,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-380287/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000072",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1725345525~acl=/*~hmac=90eaa1ba492313972529b0992c841f53f73c5438395f4f6e17ebc419917641bf"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8?ads.partner=tataplay&hdnea=exp=1725352684~acl=/*~hmac=eddea546d109dbbf9bc30f95b9da892933ce3707e8a7b35a92bf28a31a997b3f"
         }
     },
     {
@@ -18863,7 +18863,7 @@
             "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001038",
             "dashWidewinePlayUrl": "https://vg-republictataplay.akamaized.net/v1/dash/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-323611/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001038",
-            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=tataplay&hdnea=exp=1725346645~acl=/*~hmac=d30648cfb5dde96d17cb73522b9e9c31f8a726dc4a2d504fe38b56cf9128c86a"
+            "fairplayUrl": "https://vg-republictvtataplay.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8?ads.partner=tataplay&hdnea=exp=1725353806~acl=/*~hmac=311b2e4b1142a95d297708a61b2a3feeb8543db21fc23c710e39eb2631bca5d7"
         }
     },
     {
@@ -30483,6 +30483,43 @@
             "dashWidewinePlayUrl": "https://cable82tataplay.akamaized.net/bnews24/bnews24/index.mpd",
             "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001469",
             "fairplayUrl": "https://cable82tataplay.akamaized.net/bnews24/bnews24/index.m3u8"
+        }
+    },
+    {
+        "id": 892,
+        "title": "Samara News",
+        "boxCoverImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61627-kmlgw3yw-v2/imageContent-61627-kmlgw3yw-m5.jpg",
+        "posterImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61628-kmlgw3yw-v2/imageContent-61628-kmlgw3yw-m5.jpg",
+        "thumbnailImage": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61629-kmlgw3yw-v2/imageContent-61629-kmlgw3yw-m5.png",
+        "contentType": "LIVE",
+        "subTitles": [
+            "Kannada"
+        ],
+        "contractName": "SUBSCRIPTION",
+        "entitlements": [
+            "1000001274",
+            "1000001038",
+            "1000000001",
+            "1000001035"
+        ],
+        "genres": [
+            "News"
+        ],
+        "channelNumber": "2042",
+        "dvbTriplet": "",
+        "hdChannel": false,
+        "restartTv": false,
+        "isCloudDvr": false,
+        "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/samaranews_logo-transparent.jpg",
+        "provider": "Samaranews Broadcasting media Pvt Ltd",
+        "interactivePartner": "",
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://delta45webtatasky.akamaized.net/out/i/768.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001040",
+            "dashWidewinePlayUrl": "https://delta45webtatasky.akamaized.net/out/i/767.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001040",
+            "fairplayUrl": "https://delta45webtatasky.akamaized.net/out/i/770.m3u8"
         }
     },
     {
