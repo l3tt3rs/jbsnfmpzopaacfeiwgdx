@@ -32,7 +32,7 @@ def git_commit_and_push():
         subprocess.run(["git", "config", "--global", "user.name", "GitHub Actions"], check=True)
 
         subprocess.run(["git", "add", "origin.json"], check=True)
-        subprocess.run(["git", "commit", "-m", "Updated origin.json for channel"], check=True)
+        subprocess.run(["git", "commit", "-m", "Updated via Script 🤖"], check=True)
         subprocess.run(["git", "push"], check=True)
         logging.info("Changes committed and pushed successfully.")
     except subprocess.CalledProcessError as e:
@@ -68,7 +68,7 @@ def generate_origin():
             with open("origin.json", "w") as file:
                 json.dump(origin_data, file, indent=4)
 
-            if index % 10 == 0:
+            if index % 70 == 0:
                 git_commit_and_push()
 
             break
