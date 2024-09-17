@@ -22,7 +22,7 @@ session.verify = False
 session.trust_env = False
 session.headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
-    "Authorization": "bearer MQkIWMQ7ibTgYBSyvYP4d6sDXRlV6sQw",
+    "Authorization": "bearer zTVewm2eYqS7gNF0AWvDfesNkD1CerLq",
 }
 
 def generate_origin():
@@ -45,8 +45,7 @@ def generate_origin():
 
             for key, value in source_data.items():
                 if "#v2" in str(value):
-                    origin_source_data[key] = decrypt_source_url(
-                        value).split("?hdnea=")[0]
+                    origin_source_data[key] = decrypt_source_url(value)
 
             origin_channel_data["streamData"] = origin_source_data
             origin_data[index] = origin_channel_data
