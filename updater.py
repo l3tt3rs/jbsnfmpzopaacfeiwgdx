@@ -1,3 +1,4 @@
+import subprocess
 from urllib3 import disable_warnings
 from Crypto.Cipher import AES
 from time import sleep
@@ -24,6 +25,14 @@ session.headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
     "Authorization": "bearer zTVewm2eYqS7gNF0AWvDfesNkD1CerLq",
 }
+
+def git_commit_and_push():
+    try:
+        subprocess.run(["git", "add", "origin.json"], check=True)
+        subprocess.run(["git", "commit", "-m", "Updated origin.json for channel"], check=True)
+        subprocess.run(["git", "push"], check=True)
+    except subprocess.CalledProcessError as e:
+        logging.error(f"Git command failed: {e}")
 
 def generate_origin():
     init_source_response = session.get("https://tm.tapi.videoready.tv/portal-search/pub/api/v1/channels?limit=1000&ott=true")
@@ -52,6 +61,8 @@ def generate_origin():
 
             with open("origin.json", "w") as file:
                 json.dump(origin_data, file, indent=4)
+
+            git_commit_and_push()  # Commit and push after each channel's update
 
             break
 
