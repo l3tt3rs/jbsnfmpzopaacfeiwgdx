@@ -28,11 +28,17 @@ session.headers = {
 
 def git_commit_and_push():
     try:
+        subprocess.run(["git", "config", "--global", "user.email", "actions@github.com"], check=True)
+        subprocess.run(["git", "config", "--global", "user.name", "GitHub Actions"], check=True)
+
         subprocess.run(["git", "add", "origin.json"], check=True)
         subprocess.run(["git", "commit", "-m", "Updated origin.json for channel"], check=True)
         subprocess.run(["git", "push"], check=True)
+        logging.info("Changes committed and pushed successfully.")
     except subprocess.CalledProcessError as e:
         logging.error(f"Git command failed: {e}")
+        logging.debug(f"Command output: {e.output}")
+
 
 def generate_origin():
     init_source_response = session.get("https://tm.tapi.videoready.tv/portal-search/pub/api/v1/channels?limit=1000&ott=true")
