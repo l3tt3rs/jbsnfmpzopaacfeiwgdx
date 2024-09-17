@@ -62,7 +62,8 @@ def generate_origin():
             with open("origin.json", "w") as file:
                 json.dump(origin_data, file, indent=4)
 
-            git_commit_and_push()  # Commit and push after each channel's update
+            if index % 10 == 0:
+                git_commit_and_push()
 
             break
 
