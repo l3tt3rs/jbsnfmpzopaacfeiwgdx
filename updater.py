@@ -68,7 +68,7 @@ def generate_origin():
             with open("origin.json", "w") as file:
                 json.dump(origin_data, file, indent=4)
 
-            if index % 70 == 0:
+            if index != 0 and index % 70 == 0:
                 git_commit_and_push()
 
             break
