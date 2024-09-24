@@ -25745,7 +25745,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/TV9 Kannada1.png",
         "provider": "Associated Broadcasting Company",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_317/output/manifest.mpd?hdnea=st=1727175682~exp=1727176282~acl=/bpk-tv/irdeto_com_Channel_317/output/*~id=1084464708~hmac=ea958c4c8f2ebe61de7fc4ca58dbb32f31dde880b96f780008b6a3361a3c7352",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000169",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_317/output/manifest.mpd?hdnea=st=1727175682~exp=1727176282~acl=/bpk-tv/irdeto_com_Channel_317/output/*~id=1084464708~hmac=ea958c4c8f2ebe61de7fc4ca58dbb32f31dde880b96f780008b6a3361a3c7352",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000169",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_317/output/index.m3u8?hdnea=st=1727175682~exp=1727176282~acl=/bpk-tv/irdeto_com_Channel_317/output/*~id=1084464708~hmac=ea958c4c8f2ebe61de7fc4ca58dbb32f31dde880b96f780008b6a3361a3c7352"
+        }
     },
     {
         "id": 85,
@@ -25814,7 +25821,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18 Kannada.png",
         "provider": "Viacom",
         "interactivePartner": "",
-        "logoVersion": 15
+        "logoVersion": 15,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_229/output/manifest.mpd?hdnea=st=1727175687~exp=1727176287~acl=/bpk-tv/irdeto_com_Channel_229/output/*~id=1084464708~hmac=b5eae6fc7a829a2bbf104a61f619780f5c070bb8f8c995163bdea36c7bb697c3",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000085",
+            "dashWidewinePlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_229/output/manifest.mpd?hdnea=st=1727175687~exp=1727176287~acl=/bpk-tv/irdeto_com_Channel_229/output/*~id=1084464708~hmac=b5eae6fc7a829a2bbf104a61f619780f5c070bb8f8c995163bdea36c7bb697c3",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000085",
+            "fairplayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_229/output/index.m3u8?hdnea=st=1727175687~exp=1727176287~acl=/bpk-tv/irdeto_com_Channel_229/output/*~id=1084464708~hmac=b5eae6fc7a829a2bbf104a61f619780f5c070bb8f8c995163bdea36c7bb697c3"
+        }
     },
     {
         "id": 33,
@@ -25847,7 +25861,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Public TV.png",
         "provider": "Writemen Media Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_316/output/manifest.mpd?hdnea=st=1727175693~exp=1727176293~acl=/bpk-tv/irdeto_com_Channel_316/output/*~id=1084464708~hmac=c303c49aee882ec6f36d159fd4e511120fc7a7968a75dd5ce583da911691a119",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000032",
+            "dashWidewinePlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_316/output/manifest.mpd?hdnea=st=1727175693~exp=1727176293~acl=/bpk-tv/irdeto_com_Channel_316/output/*~id=1084464708~hmac=c303c49aee882ec6f36d159fd4e511120fc7a7968a75dd5ce583da911691a119",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000032",
+            "fairplayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_316/output/index.m3u8?hdnea=st=1727175693~exp=1727176293~acl=/bpk-tv/irdeto_com_Channel_316/output/*~id=1084464708~hmac=c303c49aee882ec6f36d159fd4e511120fc7a7968a75dd5ce583da911691a119"
+        }
     },
     {
         "id": 555,
@@ -25880,7 +25901,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ASIANET-SUVARNA-ENG--transparent.png",
         "provider": "Asianet News Network",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_766/output/manifest.mpd?hdnea=st=1727175698~exp=1727176298~acl=/bpk-tv/irdeto_com_Channel_766/output/*~id=1084464708~hmac=162dbca648bee052c98b53ae501f75841fe1eb1fa04033c6ef09b31d60d17ccd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000543",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_766/output/manifest.mpd?hdnea=st=1727175698~exp=1727176298~acl=/bpk-tv/irdeto_com_Channel_766/output/*~id=1084464708~hmac=162dbca648bee052c98b53ae501f75841fe1eb1fa04033c6ef09b31d60d17ccd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000543",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_766/output/index.m3u8?hdnea=st=1727175698~exp=1727176298~acl=/bpk-tv/irdeto_com_Channel_766/output/*~id=1084464708~hmac=162dbca648bee052c98b53ae501f75841fe1eb1fa04033c6ef09b31d60d17ccd"
+        }
     },
     {
         "id": 629,
@@ -25912,7 +25940,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/TV5 Kannada.png",
         "provider": "Shreya Broadcasting",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_863/output/manifest.mpd?hdnea=st=1727175703~exp=1727176303~acl=/bpk-tv/irdeto_com_Channel_863/output/*~id=1084464708~hmac=17dc16da36348d245bc69687992e841b51ce439c78002bfd8d6c38211eebc406",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000654",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_863/output/manifest.mpd?hdnea=st=1727175703~exp=1727176303~acl=/bpk-tv/irdeto_com_Channel_863/output/*~id=1084464708~hmac=17dc16da36348d245bc69687992e841b51ce439c78002bfd8d6c38211eebc406",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000654",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_863/output/index.m3u8?hdnea=st=1727175703~exp=1727176303~acl=/bpk-tv/irdeto_com_Channel_863/output/*~id=1084464708~hmac=17dc16da36348d245bc69687992e841b51ce439c78002bfd8d6c38211eebc406"
+        }
     },
     {
         "id": 510,
@@ -25944,7 +25979,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Raj News Kannada.png",
         "provider": "Raj TV",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_688/output/manifest.mpd?hdnea=st=1727175708~exp=1727176308~acl=/bpk-tv/irdeto_com_Channel_688/output/*~id=1084464708~hmac=99e2b01f308a0d0a531db80db9a799dcde92d7514fcda0d71ad4ac603845b5be",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000539",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_688/output/manifest.mpd?hdnea=st=1727175708~exp=1727176308~acl=/bpk-tv/irdeto_com_Channel_688/output/*~id=1084464708~hmac=99e2b01f308a0d0a531db80db9a799dcde92d7514fcda0d71ad4ac603845b5be",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000539",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_688/output/index.m3u8?hdnea=st=1727175708~exp=1727176308~acl=/bpk-tv/irdeto_com_Channel_688/output/*~id=1084464708~hmac=99e2b01f308a0d0a531db80db9a799dcde92d7514fcda0d71ad4ac603845b5be"
+        }
     },
     {
         "id": 342,
@@ -25976,7 +26018,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/R-logo_2000_X_1125_Transparent.png",
         "provider": "VRL Media Ltd",
         "interactivePartner": "",
-        "logoVersion": 6
+        "logoVersion": 6,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_529/output/manifest.mpd?hdnea=st=1727175724~exp=1727176324~acl=/bpk-tv/irdeto_com_Channel_529/output/*~id=1084464708~hmac=19ecd8ba3d68f2c86809f43dab2a882eb63d47f0cf115bfc200faf52cbcb6e71",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000360",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_529/output/manifest.mpd?hdnea=st=1727175724~exp=1727176324~acl=/bpk-tv/irdeto_com_Channel_529/output/*~id=1084464708~hmac=19ecd8ba3d68f2c86809f43dab2a882eb63d47f0cf115bfc200faf52cbcb6e71",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000360",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_529/output/index.m3u8?hdnea=st=1727175724~exp=1727176324~acl=/bpk-tv/irdeto_com_Channel_529/output/*~id=1084464708~hmac=19ecd8ba3d68f2c86809f43dab2a882eb63d47f0cf115bfc200faf52cbcb6e71"
+        }
     },
     {
         "id": 824,
@@ -26007,7 +26056,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/POWER_LOGO-ENGLISH-PNG-transparent.png",
         "provider": "MGK Priniting Works Private Limited",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd?hdnea=st=1727175729~exp=1727176329~acl=/bpk-tv/irdeto_com_Channel_1119/output/*~id=1084464708~hmac=d11fe758a219877ee028ce211574fc7be2c39836b65f08a8e864caae7273a95c",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000934",
+            "dashWidewinePlayUrl": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd?hdnea=st=1727175729~exp=1727176329~acl=/bpk-tv/irdeto_com_Channel_1119/output/*~id=1084464708~hmac=d11fe758a219877ee028ce211574fc7be2c39836b65f08a8e864caae7273a95c",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000934",
+            "fairplayUrl": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/index.m3u8?hdnea=st=1727175729~exp=1727176329~acl=/bpk-tv/irdeto_com_Channel_1119/output/*~id=1084464708~hmac=d11fe758a219877ee028ce211574fc7be2c39836b65f08a8e864caae7273a95c"
+        }
     },
     {
         "id": 913,
@@ -26039,7 +26095,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NewsFirst Kannada Logo_Transparent.png",
         "provider": "Total Telefilms Pvt Ltd.",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1320/output/manifest.mpd?hdnea=st=1727175734~exp=1727176334~acl=/bpk-tv/irdeto_com_Channel_1320/output/*~id=1084464708~hmac=ec52614d1f4a327effd89b588f09186143f10306549aca5c24a11c2999d9d73e",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001064",
+            "dashWidewinePlayUrl": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1320/output/manifest.mpd?hdnea=st=1727175734~exp=1727176334~acl=/bpk-tv/irdeto_com_Channel_1320/output/*~id=1084464708~hmac=ec52614d1f4a327effd89b588f09186143f10306549aca5c24a11c2999d9d73e",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001064",
+            "fairplayUrl": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_1320/output/index.m3u8?hdnea=st=1727175734~exp=1727176334~acl=/bpk-tv/irdeto_com_Channel_1320/output/*~id=1084464708~hmac=ec52614d1f4a327effd89b588f09186143f10306549aca5c24a11c2999d9d73e"
+        }
     },
     {
         "id": 1077,
@@ -26069,7 +26132,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/vistara-logo_Transparent.png",
         "provider": "Vistara News",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1891/output/manifest.mpd?hdnea=st=1727175740~exp=1727176340~acl=/bpk-tv/irdeto_com_Channel_1891/output/*~id=1084464708~hmac=be20999d2f831eafa4de01af31f807a70ddc1b9bf5d29cd34d7278fb9fd193d9",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001243",
+            "dashWidewinePlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1891/output/manifest.mpd?hdnea=st=1727175740~exp=1727176340~acl=/bpk-tv/irdeto_com_Channel_1891/output/*~id=1084464708~hmac=be20999d2f831eafa4de01af31f807a70ddc1b9bf5d29cd34d7278fb9fd193d9",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001243",
+            "fairplayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1891/output/index.m3u8?hdnea=st=1727175740~exp=1727176340~acl=/bpk-tv/irdeto_com_Channel_1891/output/*~id=1084464708~hmac=be20999d2f831eafa4de01af31f807a70ddc1b9bf5d29cd34d7278fb9fd193d9"
+        }
     },
     {
         "id": 1287,
@@ -26099,7 +26169,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee-Kannada-News-Logo_2000_X_1125_Transpharent.png",
         "provider": "Zee Media Corporation Limited",
         "interactivePartner": "",
-        "logoVersion": 23
+        "logoVersion": 23,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2064/output/manifest.mpd?hdnea=st=1727175745~exp=1727176345~acl=/bpk-tv/irdeto_com_Channel_2064/output/*~id=1084464708~hmac=a4fa5cb991402f760ed8866e2b2d8ec348d3650640235e95100a4440f25d3398",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001427",
+            "dashWidewinePlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2064/output/manifest.mpd?hdnea=st=1727175745~exp=1727176345~acl=/bpk-tv/irdeto_com_Channel_2064/output/*~id=1084464708~hmac=a4fa5cb991402f760ed8866e2b2d8ec348d3650640235e95100a4440f25d3398",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001427",
+            "fairplayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2064/output/index.m3u8?hdnea=st=1727175745~exp=1727176345~acl=/bpk-tv/irdeto_com_Channel_2064/output/*~id=1084464708~hmac=a4fa5cb991402f760ed8866e2b2d8ec348d3650640235e95100a4440f25d3398"
+        }
     },
     {
         "id": 321,
@@ -26132,7 +26209,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD Chandana.png",
         "provider": "Doordarshan",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_506/output/manifest.mpd?hdnea=st=1727175750~exp=1727176350~acl=/bpk-tv/irdeto_com_Channel_506/output/*~id=1084464708~hmac=6bd3584c48ca71bdef0887f76afd6ad572a7c37207e0a7496e1b3590abd8d8ed",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000338",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_506/output/manifest.mpd?hdnea=st=1727175750~exp=1727176350~acl=/bpk-tv/irdeto_com_Channel_506/output/*~id=1084464708~hmac=6bd3584c48ca71bdef0887f76afd6ad572a7c37207e0a7496e1b3590abd8d8ed",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000338",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_506/output/index.m3u8?hdnea=st=1727175750~exp=1727176350~acl=/bpk-tv/irdeto_com_Channel_506/output/*~id=1084464708~hmac=6bd3584c48ca71bdef0887f76afd6ad572a7c37207e0a7496e1b3590abd8d8ed"
+        }
     },
     {
         "id": 427,
@@ -26163,7 +26247,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Raj Musix Kannada.png",
         "provider": "Raj TV",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_685/output/manifest.mpd?hdnea=st=1727175755~exp=1727176355~acl=/bpk-tv/irdeto_com_Channel_685/output/*~id=1084464708~hmac=6e55f91c3d9b83fb4f3d92382b569599afcde6ab5682d5cd4a8df5feb97ef173",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000451",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_685/output/manifest.mpd?hdnea=st=1727175755~exp=1727176355~acl=/bpk-tv/irdeto_com_Channel_685/output/*~id=1084464708~hmac=6e55f91c3d9b83fb4f3d92382b569599afcde6ab5682d5cd4a8df5feb97ef173",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000451",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_685/output/index.m3u8?hdnea=st=1727175755~exp=1727176355~acl=/bpk-tv/irdeto_com_Channel_685/output/*~id=1084464708~hmac=6e55f91c3d9b83fb4f3d92382b569599afcde6ab5682d5cd4a8df5feb97ef173"
+        }
     },
     {
         "id": 424,
@@ -26194,7 +26285,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Public Music.png",
         "provider": "Writemen Media Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/manifest.mpd?hdnea=st=1727175760~exp=1727176360~acl=/bpk-tv/irdeto_com_Channel_679/output/*~id=1084464708~hmac=6b54f00f4498d3235328369992418e48521abd53feb62967bac4052cde1e723c",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000448",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/manifest.mpd?hdnea=st=1727175760~exp=1727176360~acl=/bpk-tv/irdeto_com_Channel_679/output/*~id=1084464708~hmac=6b54f00f4498d3235328369992418e48521abd53feb62967bac4052cde1e723c",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000448",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/index.m3u8?hdnea=st=1727175760~exp=1727176360~acl=/bpk-tv/irdeto_com_Channel_679/output/*~id=1084464708~hmac=6b54f00f4498d3235328369992418e48521abd53feb62967bac4052cde1e723c"
+        }
     },
     {
         "id": 477,
@@ -26229,7 +26327,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sri Sankara TV.png",
         "provider": "Kamadhenu Telefilms Pvt. Ltd",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/manifest.mpd?hdnea=st=1727175766~exp=1727176366~acl=/bpk-tv/irdeto_com_Channel_728/output/*~id=1084464708~hmac=1116ef935c6623f622d903f2e8099e2bad3cee0ce05a11b0720feaa4d430566c",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000502",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/manifest.mpd?hdnea=st=1727175766~exp=1727176366~acl=/bpk-tv/irdeto_com_Channel_728/output/*~id=1084464708~hmac=1116ef935c6623f622d903f2e8099e2bad3cee0ce05a11b0720feaa4d430566c",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000502",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_728/output/index.m3u8?hdnea=st=1727175766~exp=1727176366~acl=/bpk-tv/irdeto_com_Channel_728/output/*~id=1084464708~hmac=1116ef935c6623f622d903f2e8099e2bad3cee0ce05a11b0720feaa4d430566c"
+        }
     },
     {
         "id": 660,
@@ -26261,7 +26366,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/AYTV_transparent.png",
         "provider": "Others",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd?hdnea=st=1727175771~exp=1727176371~acl=/bpk-tv/irdeto_com_Channel_893/output/*~id=1084464708~hmac=f4580894e81b8b9e1a774071bc243dbf576c5522a498df7bb63b8a86562f36a5",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000698",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd?hdnea=st=1727175771~exp=1727176371~acl=/bpk-tv/irdeto_com_Channel_893/output/*~id=1084464708~hmac=f4580894e81b8b9e1a774071bc243dbf576c5522a498df7bb63b8a86562f36a5",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000698",
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/index.m3u8?hdnea=st=1727175771~exp=1727176371~acl=/bpk-tv/irdeto_com_Channel_893/output/*~id=1084464708~hmac=f4580894e81b8b9e1a774071bc243dbf576c5522a498df7bb63b8a86562f36a5"
+        }
     },
     {
         "id": 971,
@@ -26292,7 +26404,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/SVBG-3-Transparent.png",
         "provider": "Sri Venkateswara Bhakti Channel Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1798/output/manifest.mpd?hdnea=st=1727175786~exp=1727176386~acl=/bpk-tv/irdeto_com_Channel_1798/output/*~id=1084464708~hmac=ef4c715009ee32a5f1c2ae2e950c174b4a5dc5b0eb623b658080edb555c17bdf",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001122",
+            "dashWidewinePlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1798/output/manifest.mpd?hdnea=st=1727175786~exp=1727176386~acl=/bpk-tv/irdeto_com_Channel_1798/output/*~id=1084464708~hmac=ef4c715009ee32a5f1c2ae2e950c174b4a5dc5b0eb623b658080edb555c17bdf",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001122",
+            "fairplayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1798/output/index.m3u8?hdnea=st=1727175786~exp=1727176386~acl=/bpk-tv/irdeto_com_Channel_1798/output/*~id=1084464708~hmac=ef4c715009ee32a5f1c2ae2e950c174b4a5dc5b0eb623b658080edb555c17bdf"
+        }
     },
     {
         "id": 107,
@@ -26332,7 +26451,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/COLORS-Guajarati-logo_2000_X_1125_Transpharent.png",
         "provider": "Viacom",
         "interactivePartner": "",
-        "logoVersion": 20
+        "logoVersion": 20,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_211/output/manifest.mpd?hdnea=st=1727175792~exp=1727176392~acl=/bpk-tv/irdeto_com_Channel_211/output/*~id=1084464708~hmac=6d92b2e30fb8d722348383effcd68d1862ce31e27d0e8ff151badca84138dca7",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000108",
+            "dashWidewinePlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_211/output/manifest.mpd?hdnea=st=1727175792~exp=1727176392~acl=/bpk-tv/irdeto_com_Channel_211/output/*~id=1084464708~hmac=6d92b2e30fb8d722348383effcd68d1862ce31e27d0e8ff151badca84138dca7",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000108",
+            "fairplayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_211/output/index.m3u8?hdnea=st=1727175792~exp=1727176392~acl=/bpk-tv/irdeto_com_Channel_211/output/*~id=1084464708~hmac=6d92b2e30fb8d722348383effcd68d1862ce31e27d0e8ff151badca84138dca7"
+        }
     },
     {
         "id": 772,
@@ -26363,7 +26489,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Tata Play Gujarati cinema Transperency.png",
         "provider": "Tata Sky Service",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_967/output/manifest.mpd?hdnea=st=1727175797~exp=1727176397~acl=/bpk-tv/irdeto_com_Channel_967/output/*~id=1084464708~hmac=3f4fa8ea99acde1ad92285c53171fc9fc14e3f98019171add6a7993b3fd2eef3",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000853",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_967/output/manifest.mpd?hdnea=st=1727175797~exp=1727176397~acl=/bpk-tv/irdeto_com_Channel_967/output/*~id=1084464708~hmac=3f4fa8ea99acde1ad92285c53171fc9fc14e3f98019171add6a7993b3fd2eef3",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000853",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_967/output/index.m3u8?hdnea=st=1727175797~exp=1727176397~acl=/bpk-tv/irdeto_com_Channel_967/output/*~id=1084464708~hmac=3f4fa8ea99acde1ad92285c53171fc9fc14e3f98019171add6a7993b3fd2eef3"
+        }
     },
     {
         "id": 692,
@@ -26404,7 +26537,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/CGUC_Poster.png",
         "provider": "Viacom",
         "interactivePartner": "",
-        "logoVersion": 16
+        "logoVersion": 16,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_934/output/manifest.mpd?hdnea=st=1727175802~exp=1727176402~acl=/bpk-tv/irdeto_com_Channel_934/output/*~id=1084464708~hmac=349ceef39e97660478551029861bf4dde3933ec8bf30dc39f12a5087b1e8f44e",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000736",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_934/output/manifest.mpd?hdnea=st=1727175802~exp=1727176402~acl=/bpk-tv/irdeto_com_Channel_934/output/*~id=1084464708~hmac=349ceef39e97660478551029861bf4dde3933ec8bf30dc39f12a5087b1e8f44e",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000736",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_934/output/index.m3u8?hdnea=st=1727175802~exp=1727176402~acl=/bpk-tv/irdeto_com_Channel_934/output/*~id=1084464708~hmac=349ceef39e97660478551029861bf4dde3933ec8bf30dc39f12a5087b1e8f44e"
+        }
     },
     {
         "id": 489,
@@ -26436,7 +26576,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/TV9 Gujarati1.png",
         "provider": "Associated Broadcasting Company",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_803/output/manifest.mpd?hdnea=st=1727175807~exp=1727176407~acl=/bpk-tv/irdeto_com_Channel_803/output/*~id=1084464708~hmac=ce856c87dcbcfec57693a6cd27fad0514367514c760ef17a7f87ec934b9d3d29",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000515",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_803/output/manifest.mpd?hdnea=st=1727175807~exp=1727176407~acl=/bpk-tv/irdeto_com_Channel_803/output/*~id=1084464708~hmac=ce856c87dcbcfec57693a6cd27fad0514367514c760ef17a7f87ec934b9d3d29",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000515",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_803/output/index.m3u8?hdnea=st=1727175807~exp=1727176407~acl=/bpk-tv/irdeto_com_Channel_803/output/*~id=1084464708~hmac=ce856c87dcbcfec57693a6cd27fad0514367514c760ef17a7f87ec934b9d3d29"
+        }
     },
     {
         "id": 552,
@@ -26468,7 +26615,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Gujarat Samachar TV.png",
         "provider": "Aaspas Multimedia",
         "interactivePartner": "",
-        "logoVersion": 10
+        "logoVersion": 10,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_292/output/manifest.mpd?hdnea=st=1727175813~exp=1727176413~acl=/bpk-tv/irdeto_com_Channel_292/output/*~id=1084464708~hmac=4aa3843c3ae8528d2812c40e9fe73aeed9377285f8d96793bd353a637f9c647e",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000583",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_292/output/manifest.mpd?hdnea=st=1727175813~exp=1727176413~acl=/bpk-tv/irdeto_com_Channel_292/output/*~id=1084464708~hmac=4aa3843c3ae8528d2812c40e9fe73aeed9377285f8d96793bd353a637f9c647e",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000583",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_292/output/index.m3u8?hdnea=st=1727175813~exp=1727176413~acl=/bpk-tv/irdeto_com_Channel_292/output/*~id=1084464708~hmac=4aa3843c3ae8528d2812c40e9fe73aeed9377285f8d96793bd353a637f9c647e"
+        }
     },
     {
         "id": 586,
@@ -26499,7 +26653,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sandesh News.png",
         "provider": "Satlon Enterprise Private Limited",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_712/output/manifest.mpd?hdnea=st=1727175818~exp=1727176418~acl=/bpk-tv/irdeto_com_Channel_712/output/*~id=1084464708~hmac=91fc96ed6a59650f40343788d789bd9bbeaf618fdd13d83f7a654acb6eba22ed",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000613",
+            "dashWidewinePlayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_712/output/manifest.mpd?hdnea=st=1727175818~exp=1727176418~acl=/bpk-tv/irdeto_com_Channel_712/output/*~id=1084464708~hmac=91fc96ed6a59650f40343788d789bd9bbeaf618fdd13d83f7a654acb6eba22ed",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000613",
+            "fairplayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_712/output/index.m3u8?hdnea=st=1727175818~exp=1727176418~acl=/bpk-tv/irdeto_com_Channel_712/output/*~id=1084464708~hmac=91fc96ed6a59650f40343788d789bd9bbeaf618fdd13d83f7a654acb6eba22ed"
+        }
     },
     {
         "id": 303,
@@ -26540,7 +26701,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/CNBC Bajaar.png",
         "provider": "Viacom",
         "interactivePartner": "",
-        "logoVersion": 12
+        "logoVersion": 12,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/manifest.mpd?hdnea=st=1727175823~exp=1727176423~acl=/bpk-tv/irdeto_com_Channel_487/output/*~id=1084464708~hmac=efa134f69468891abba8edafdddee0ad98bf5d44998e8dcc54a821209126fc99",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000317",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/manifest.mpd?hdnea=st=1727175823~exp=1727176423~acl=/bpk-tv/irdeto_com_Channel_487/output/*~id=1084464708~hmac=efa134f69468891abba8edafdddee0ad98bf5d44998e8dcc54a821209126fc99",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000317",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/index.m3u8?hdnea=st=1727175823~exp=1727176423~acl=/bpk-tv/irdeto_com_Channel_487/output/*~id=1084464708~hmac=efa134f69468891abba8edafdddee0ad98bf5d44998e8dcc54a821209126fc99"
+        }
     },
     {
         "id": 6,
@@ -26587,7 +26755,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18 Gujarati.png",
         "provider": "Viacom",
         "interactivePartner": "",
-        "logoVersion": 10
+        "logoVersion": 10,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_291/output/manifest.mpd?hdnea=st=1727175828~exp=1727176428~acl=/bpk-tv/irdeto_com_Channel_291/output/*~id=1084464708~hmac=eda1f061d09f76bc6265ca54cb45b6390eff5890d42d7be8477b5235bcc73686",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000005",
+            "dashWidewinePlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_291/output/manifest.mpd?hdnea=st=1727175828~exp=1727176428~acl=/bpk-tv/irdeto_com_Channel_291/output/*~id=1084464708~hmac=eda1f061d09f76bc6265ca54cb45b6390eff5890d42d7be8477b5235bcc73686",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000005",
+            "fairplayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_291/output/index.m3u8?hdnea=st=1727175828~exp=1727176428~acl=/bpk-tv/irdeto_com_Channel_291/output/*~id=1084464708~hmac=eda1f061d09f76bc6265ca54cb45b6390eff5890d42d7be8477b5235bcc73686"
+        }
     },
     {
         "id": 73,
@@ -26618,7 +26793,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ABP ASM.png",
         "provider": "ABP News Network (ANN)",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_378/output/manifest.mpd?hdnea=st=1727175834~exp=1727176434~acl=/bpk-tv/irdeto_com_Channel_378/output/*~id=1084464708~hmac=cde6d1f89a32d03d5e9b99f7bcf7bbc1c3131bd11f0722febf30f2c637cbade2",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000071",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_378/output/manifest.mpd?hdnea=st=1727175834~exp=1727176434~acl=/bpk-tv/irdeto_com_Channel_378/output/*~id=1084464708~hmac=cde6d1f89a32d03d5e9b99f7bcf7bbc1c3131bd11f0722febf30f2c637cbade2",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000071",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_378/output/index.m3u8?hdnea=st=1727175834~exp=1727176434~acl=/bpk-tv/irdeto_com_Channel_378/output/*~id=1084464708~hmac=cde6d1f89a32d03d5e9b99f7bcf7bbc1c3131bd11f0722febf30f2c637cbade2"
+        }
     },
     {
         "id": 497,
@@ -26648,7 +26830,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/VTV-NEWS-Transparent.png",
         "provider": "VTV News",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_821/output/manifest.mpd?hdnea=st=1727175849~exp=1727176449~acl=/bpk-tv/irdeto_com_Channel_821/output/*~id=1084464708~hmac=71737454e9fc6d58e5034ca3049c5279af2545fd9cf614c951cda0d444b549b7",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000527",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_821/output/manifest.mpd?hdnea=st=1727175849~exp=1727176449~acl=/bpk-tv/irdeto_com_Channel_821/output/*~id=1084464708~hmac=71737454e9fc6d58e5034ca3049c5279af2545fd9cf614c951cda0d444b549b7",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000527",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_821/output/index.m3u8?hdnea=st=1727175849~exp=1727176449~acl=/bpk-tv/irdeto_com_Channel_821/output/*~id=1084464708~hmac=71737454e9fc6d58e5034ca3049c5279af2545fd9cf614c951cda0d444b549b7"
+        }
     },
     {
         "id": 507,
@@ -26694,7 +26883,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee-24-Kalak.png",
         "provider": "Zee",
         "interactivePartner": "",
-        "logoVersion": 6
+        "logoVersion": 6,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_833/output/manifest.mpd?hdnea=st=1727175854~exp=1727176454~acl=/bpk-tv/irdeto_com_Channel_833/output/*~id=1084464708~hmac=dea18e0439462a3f1fb3bc75e038f24e3e3c63d0a2c96d93d313beea80555530",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000531",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_833/output/manifest.mpd?hdnea=st=1727175854~exp=1727176454~acl=/bpk-tv/irdeto_com_Channel_833/output/*~id=1084464708~hmac=dea18e0439462a3f1fb3bc75e038f24e3e3c63d0a2c96d93d313beea80555530",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000531",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_833/output/index.m3u8?hdnea=st=1727175854~exp=1727176454~acl=/bpk-tv/irdeto_com_Channel_833/output/*~id=1084464708~hmac=dea18e0439462a3f1fb3bc75e038f24e3e3c63d0a2c96d93d313beea80555530"
+        }
     },
     {
         "id": 654,
@@ -26725,7 +26921,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/India News Gujarat.png",
         "provider": "Information TV Private Limited",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_987/output/manifest.mpd?hdnea=st=1727175859~exp=1727176459~acl=/bpk-tv/irdeto_com_Channel_987/output/*~id=1084464708~hmac=ba62a7f0b0d6448fc47aa4de2986cd17e45d6aea3d98d6789f63ae1fbc43547e",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000692",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_987/output/manifest.mpd?hdnea=st=1727175859~exp=1727176459~acl=/bpk-tv/irdeto_com_Channel_987/output/*~id=1084464708~hmac=ba62a7f0b0d6448fc47aa4de2986cd17e45d6aea3d98d6789f63ae1fbc43547e",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000692",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_987/output/index.m3u8?hdnea=st=1727175859~exp=1727176459~acl=/bpk-tv/irdeto_com_Channel_987/output/*~id=1084464708~hmac=ba62a7f0b0d6448fc47aa4de2986cd17e45d6aea3d98d6789f63ae1fbc43547e"
+        }
     },
     {
         "id": 974,
@@ -26755,7 +26958,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Gujrat-First-logo_2000_X_1125_Transpharant.png",
         "provider": "Netink Technologies Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1803/output/manifest.mpd?hdnea=st=1727175865~exp=1727176465~acl=/bpk-tv/irdeto_com_Channel_1803/output/*~id=1084464708~hmac=032c7acab4f7dc1915349133e15f083ae1c9432a23db4428a9f41cb7b14025ec",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001131",
+            "dashWidewinePlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1803/output/manifest.mpd?hdnea=st=1727175865~exp=1727176465~acl=/bpk-tv/irdeto_com_Channel_1803/output/*~id=1084464708~hmac=032c7acab4f7dc1915349133e15f083ae1c9432a23db4428a9f41cb7b14025ec",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001131",
+            "fairplayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1803/output/index.m3u8?hdnea=st=1727175865~exp=1727176465~acl=/bpk-tv/irdeto_com_Channel_1803/output/*~id=1084464708~hmac=032c7acab4f7dc1915349133e15f083ae1c9432a23db4428a9f41cb7b14025ec"
+        }
     },
     {
         "id": 1286,
@@ -26785,7 +26995,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NEWS-CAPITAL-LOGO_2000_X_1125_Transpharent.png",
         "provider": "News Capital",
         "interactivePartner": "",
-        "logoVersion": 9
+        "logoVersion": 9,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2063/output/manifest.mpd?hdnea=st=1727175870~exp=1727176470~acl=/bpk-tv/irdeto_com_Channel_2063/output/*~id=1084464708~hmac=d3e350efb5aef0d73c3def2e65cb0fb9bf1707dc78acd1e7ec8276d11062d889",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001426",
+            "dashWidewinePlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2063/output/manifest.mpd?hdnea=st=1727175870~exp=1727176470~acl=/bpk-tv/irdeto_com_Channel_2063/output/*~id=1084464708~hmac=d3e350efb5aef0d73c3def2e65cb0fb9bf1707dc78acd1e7ec8276d11062d889",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001426",
+            "fairplayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_2063/output/index.m3u8?hdnea=st=1727175870~exp=1727176470~acl=/bpk-tv/irdeto_com_Channel_2063/output/*~id=1084464708~hmac=d3e350efb5aef0d73c3def2e65cb0fb9bf1707dc78acd1e7ec8276d11062d889"
+        }
     },
     {
         "id": 323,
@@ -26819,7 +27036,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD Girnar.png",
         "provider": "Doordarshan",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_507/output/manifest.mpd?hdnea=st=1727175875~exp=1727176475~acl=/bpk-tv/irdeto_com_Channel_507/output/*~id=1084464708~hmac=6a37459caca9c33e551d018e792462cea38ec3d75d1efc3b803494de02c252ff",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000341",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_507/output/manifest.mpd?hdnea=st=1727175875~exp=1727176475~acl=/bpk-tv/irdeto_com_Channel_507/output/*~id=1084464708~hmac=6a37459caca9c33e551d018e792462cea38ec3d75d1efc3b803494de02c252ff",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000341",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_507/output/index.m3u8?hdnea=st=1727175875~exp=1727176475~acl=/bpk-tv/irdeto_com_Channel_507/output/*~id=1084464708~hmac=6a37459caca9c33e551d018e792462cea38ec3d75d1efc3b803494de02c252ff"
+        }
     },
     {
         "id": 1097,
@@ -26848,7 +27072,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Astha-Gujarati-Transparent.png",
         "provider": "Vedic Broadcasting Limited",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1908/output/manifest.mpd?hdnea=st=1727175880~exp=1727176480~acl=/bpk-tv/irdeto_com_Channel_1908/output/*~id=1084464708~hmac=e0555e5bcbacfd97cc5c0acd840a8c7d5821e0aca2b511f2c6e94a2634e92f35",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001262",
+            "dashWidewinePlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1908/output/manifest.mpd?hdnea=st=1727175880~exp=1727176480~acl=/bpk-tv/irdeto_com_Channel_1908/output/*~id=1084464708~hmac=e0555e5bcbacfd97cc5c0acd840a8c7d5821e0aca2b511f2c6e94a2634e92f35",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001262",
+            "fairplayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1908/output/index.m3u8?hdnea=st=1727175880~exp=1727176480~acl=/bpk-tv/irdeto_com_Channel_1908/output/*~id=1084464708~hmac=e0555e5bcbacfd97cc5c0acd840a8c7d5821e0aca2b511f2c6e94a2634e92f35"
+        }
     },
     {
         "id": 1350,
@@ -26877,7 +27108,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Lakshya-TV-Logo_2000_X_1125_Trasnpharent.png",
         "provider": "Tata Play Service",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://delta45webtatasky.akamaized.net/out/i/1580.mpd?hdnea=st=1727175886~exp=1727176486~acl=/*~id=1084464708~hmac=e86e7074d6bac57ab6b4fcca1b51e90d76cb02b9e9831481034c107d0c42126f",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001481",
+            "dashWidewinePlayUrl": "https://delta45webtatasky.akamaized.net/out/i/1579.mpd?hdnea=st=1727175886~exp=1727176486~acl=/*~id=1084464708~hmac=e86e7074d6bac57ab6b4fcca1b51e90d76cb02b9e9831481034c107d0c42126f",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001481",
+            "fairplayUrl": "https://delta45webtatasky.akamaized.net/out/i/1577.m3u8?hdnea=st=1727175886~exp=1727176486~acl=/*~id=1084464708~hmac=e86e7074d6bac57ab6b4fcca1b51e90d76cb02b9e9831481034c107d0c42126f"
+        }
     },
     {
         "id": 1349,
@@ -26906,7 +27144,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kartyavya-TV-Logo_2000_X_1125_Transpharent.png",
         "provider": "Tata Play Service",
         "interactivePartner": "",
-        "logoVersion": 2
+        "logoVersion": 2,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://delta45tatasky.akamaized.net/out/i/1569.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001479",
+            "dashWidewinePlayUrl": "https://delta45tatasky.akamaized.net/out/i/1568.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001479",
+            "fairplayUrl": "https://delta45tatasky.akamaized.net/out/i/1566.m3u8"
+        }
     },
     {
         "id": 1351,
@@ -26936,7 +27181,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalyan-TV-Logo_2000_X_1125_Transpharent.png",
         "provider": "Tata Play Service",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://delta45webtatasky.akamaized.net/out/i/1588.mpd?hdnea=st=1727175896~exp=1727176496~acl=/*~id=1084464708~hmac=94e70565616e2eda7b8672ad8b2d0f202528f352357fbfc1785ba4a2a599e1ba",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001480",
+            "dashWidewinePlayUrl": "https://delta45webtatasky.akamaized.net/out/i/1587.mpd?hdnea=st=1727175896~exp=1727176496~acl=/*~id=1084464708~hmac=94e70565616e2eda7b8672ad8b2d0f202528f352357fbfc1785ba4a2a599e1ba",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001480",
+            "fairplayUrl": "https://delta45webtatasky.akamaized.net/out/i/1585.m3u8?hdnea=st=1727175896~exp=1727176496~acl=/*~id=1084464708~hmac=94e70565616e2eda7b8672ad8b2d0f202528f352357fbfc1785ba4a2a599e1ba"
+        }
     },
     {
         "id": 893,
@@ -26968,7 +27220,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/e675ca586f15f0d786aa93c953c5985b.jpg",
         "provider": "Valam Media",
         "interactivePartner": "",
-        "logoVersion": 6
+        "logoVersion": 6,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://delta45webtatasky.akamaized.net/out/i/1379.mpd?hdnea=st=1727175901~exp=1727176501~acl=/*~id=1084464708~hmac=669341ceaacf5177379d8882b125619ddeb44348a0ef6c77f0e8ee310779daee",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001042",
+            "dashWidewinePlayUrl": "https://delta45webtatasky.akamaized.net/out/i/1378.mpd?hdnea=st=1727175901~exp=1727176501~acl=/*~id=1084464708~hmac=669341ceaacf5177379d8882b125619ddeb44348a0ef6c77f0e8ee310779daee",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001042",
+            "fairplayUrl": "https://delta45webtatasky.akamaized.net/out/i/1381.m3u8?hdnea=st=1727175901~exp=1727176501~acl=/*~id=1084464708~hmac=669341ceaacf5177379d8882b125619ddeb44348a0ef6c77f0e8ee310779daee"
+        }
     },
     {
         "id": 115,
@@ -27013,7 +27272,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Colors Oriya.png",
         "provider": "Viacom",
         "interactivePartner": "",
-        "logoVersion": 10
+        "logoVersion": 10,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_215/output/manifest.mpd?hdnea=st=1727175907~exp=1727176507~acl=/bpk-tv/irdeto_com_Channel_215/output/*~id=1084464708~hmac=ecbeafcf81e043686fe387df7b7e36886f00e85078b731be44eed4416ca4025d",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000114",
+            "dashWidewinePlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_215/output/manifest.mpd?hdnea=st=1727175907~exp=1727176507~acl=/bpk-tv/irdeto_com_Channel_215/output/*~id=1084464708~hmac=ecbeafcf81e043686fe387df7b7e36886f00e85078b731be44eed4416ca4025d",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000114",
+            "fairplayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_215/output/index.m3u8?hdnea=st=1727175907~exp=1727176507~acl=/bpk-tv/irdeto_com_Channel_215/output/*~id=1084464708~hmac=ecbeafcf81e043686fe387df7b7e36886f00e85078b731be44eed4416ca4025d"
+        }
     },
     {
         "id": 597,
@@ -27051,7 +27317,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Sarthak.png",
         "provider": "Zee",
         "interactivePartner": "",
-        "logoVersion": 5
+        "logoVersion": 5,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_709/output/manifest.mpd?hdnea=st=1727175912~exp=1727176512~acl=/bpk-tv/irdeto_com_Channel_709/output/*~id=1084464708~hmac=9eb308f6ebefd0f9436b434d0fe72eb522bfb1a3cda6b4370442b127c15b9687",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000621",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_709/output/manifest.mpd?hdnea=st=1727175912~exp=1727176512~acl=/bpk-tv/irdeto_com_Channel_709/output/*~id=1084464708~hmac=9eb308f6ebefd0f9436b434d0fe72eb522bfb1a3cda6b4370442b127c15b9687",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000621",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_709/output/index.m3u8?hdnea=st=1727175912~exp=1727176512~acl=/bpk-tv/irdeto_com_Channel_709/output/*~id=1084464708~hmac=9eb308f6ebefd0f9436b434d0fe72eb522bfb1a3cda6b4370442b127c15b9687"
+        }
     },
     {
         "id": 978,
@@ -27087,7 +27360,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sidharth-TV-Transparent.png",
         "provider": "Sidharth Broadcasting Private Limited",
         "interactivePartner": "",
-        "logoVersion": 8
+        "logoVersion": 8,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1808/output/manifest.mpd?hdnea=st=1727175917~exp=1727176517~acl=/bpk-tv/irdeto_com_Channel_1808/output/*~id=1084464708~hmac=67037efb2d5cb8bb3b3d03ead98a319f53a2d590b67b277c5d18cc36925c3e4c",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001139",
+            "dashWidewinePlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1808/output/manifest.mpd?hdnea=st=1727175917~exp=1727176517~acl=/bpk-tv/irdeto_com_Channel_1808/output/*~id=1084464708~hmac=67037efb2d5cb8bb3b3d03ead98a319f53a2d590b67b277c5d18cc36925c3e4c",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001139",
+            "fairplayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_1808/output/index.m3u8?hdnea=st=1727175917~exp=1727176517~acl=/bpk-tv/irdeto_com_Channel_1808/output/*~id=1084464708~hmac=67037efb2d5cb8bb3b3d03ead98a319f53a2d590b67b277c5d18cc36925c3e4c"
+        }
     },
     {
         "id": 421,
@@ -27119,7 +27399,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Peppers TV.png",
         "provider": "Peppers Media Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_671/output/manifest.mpd?hdnea=st=1727175922~exp=1727176522~acl=/bpk-tv/irdeto_com_Channel_671/output/*~id=1084464708~hmac=42f7c8a80711c0da0ca9b00edcfec031ded85d22219859032be1606a7c129233",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000445",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_671/output/manifest.mpd?hdnea=st=1727175922~exp=1727176522~acl=/bpk-tv/irdeto_com_Channel_671/output/*~id=1084464708~hmac=42f7c8a80711c0da0ca9b00edcfec031ded85d22219859032be1606a7c129233",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000445",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_671/output/index.m3u8?hdnea=st=1727175922~exp=1727176522~acl=/bpk-tv/irdeto_com_Channel_671/output/*~id=1084464708~hmac=42f7c8a80711c0da0ca9b00edcfec031ded85d22219859032be1606a7c129233"
+        }
     },
     {
         "id": 1170,
@@ -27150,7 +27437,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sidharth-GOLD-Logo_2000_X_1125-Transpharent.png",
         "provider": "M/s Indiasign Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 10
+        "logoVersion": 10,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1952/output/manifest.mpd?hdnea=st=1727175928~exp=1727176528~acl=/bpk-tv/irdeto_com_Channel_1952/output/*~id=1084464708~hmac=56215357e1f4a555a522d2df3234f1da88b271058d4025870125e765aa93ab82",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001315",
+            "dashWidewinePlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1952/output/manifest.mpd?hdnea=st=1727175928~exp=1727176528~acl=/bpk-tv/irdeto_com_Channel_1952/output/*~id=1084464708~hmac=56215357e1f4a555a522d2df3234f1da88b271058d4025870125e765aa93ab82",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001315",
+            "fairplayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1952/output/index.m3u8?hdnea=st=1727175928~exp=1727176528~acl=/bpk-tv/irdeto_com_Channel_1952/output/*~id=1084464708~hmac=56215357e1f4a555a522d2df3234f1da88b271058d4025870125e765aa93ab82"
+        }
     },
     {
         "id": 376,
@@ -27182,7 +27476,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kanak News.png",
         "provider": "Eastern Media Ltd",
         "interactivePartner": "",
-        "logoVersion": 2
+        "logoVersion": 2,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_592/output/manifest.mpd?hdnea=st=1727175933~exp=1727176533~acl=/bpk-tv/irdeto_com_Channel_592/output/*~id=1084464708~hmac=75890238458bc671880537ffb36307ef398d65706318e111e8a49e067b5e08d4",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000396",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_592/output/manifest.mpd?hdnea=st=1727175933~exp=1727176533~acl=/bpk-tv/irdeto_com_Channel_592/output/*~id=1084464708~hmac=75890238458bc671880537ffb36307ef398d65706318e111e8a49e067b5e08d4",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000396",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_592/output/index.m3u8?hdnea=st=1727175933~exp=1727176533~acl=/bpk-tv/irdeto_com_Channel_592/output/*~id=1084464708~hmac=75890238458bc671880537ffb36307ef398d65706318e111e8a49e067b5e08d4"
+        }
     },
     {
         "id": 375,
@@ -27214,7 +27515,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kalinga TV.png",
         "provider": "Kalinga Media And Entertainment Private Limited",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_591/output/manifest.mpd?hdnea=st=1727175938~exp=1727176538~acl=/bpk-tv/irdeto_com_Channel_591/output/*~id=1084464708~hmac=9c767357ed10a115651d36d0c41283c18454cc5e61d588b02cd0188fb5928f21",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000395",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_591/output/manifest.mpd?hdnea=st=1727175938~exp=1727176538~acl=/bpk-tv/irdeto_com_Channel_591/output/*~id=1084464708~hmac=9c767357ed10a115651d36d0c41283c18454cc5e61d588b02cd0188fb5928f21",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000395",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_591/output/index.m3u8?hdnea=st=1727175938~exp=1727176538~acl=/bpk-tv/irdeto_com_Channel_591/output/*~id=1084464708~hmac=9c767357ed10a115651d36d0c41283c18454cc5e61d588b02cd0188fb5928f21"
+        }
     },
     {
         "id": 41,
@@ -27261,7 +27569,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18 Odia.png",
         "provider": "Viacom",
         "interactivePartner": "",
-        "logoVersion": 11
+        "logoVersion": 11,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_337/output/manifest.mpd?hdnea=st=1727175943~exp=1727176543~acl=/bpk-tv/irdeto_com_Channel_337/output/*~id=1084464708~hmac=6a5d2be95923adad4efbc3e65e90ccada3200749190db4c72a908164bea91f09",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000040",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_337/output/manifest.mpd?hdnea=st=1727175943~exp=1727176543~acl=/bpk-tv/irdeto_com_Channel_337/output/*~id=1084464708~hmac=6a5d2be95923adad4efbc3e65e90ccada3200749190db4c72a908164bea91f09",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000040",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_337/output/index.m3u8?hdnea=st=1727175943~exp=1727176543~acl=/bpk-tv/irdeto_com_Channel_337/output/*~id=1084464708~hmac=6a5d2be95923adad4efbc3e65e90ccada3200749190db4c72a908164bea91f09"
+        }
     },
     {
         "id": 448,
@@ -27291,7 +27606,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Prameya-News-7_transperncy.png",
         "provider": "Summa Real Media Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_676/output/manifest.mpd?hdnea=st=1727175948~exp=1727176548~acl=/bpk-tv/irdeto_com_Channel_676/output/*~id=1084464708~hmac=10079a9b5f35720fb0c50c3b6642022a572e9e901f53921f077010f4aec5b4d3",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000467",
+            "dashWidewinePlayUrl": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_676/output/manifest.mpd?hdnea=st=1727175948~exp=1727176548~acl=/bpk-tv/irdeto_com_Channel_676/output/*~id=1084464708~hmac=10079a9b5f35720fb0c50c3b6642022a572e9e901f53921f077010f4aec5b4d3",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000467",
+            "fairplayUrl": "https://bpaita2.akamaized.net/bpk-tv/irdeto_com_Channel_676/output/index.m3u8?hdnea=st=1727175948~exp=1727176548~acl=/bpk-tv/irdeto_com_Channel_676/output/*~id=1084464708~hmac=10079a9b5f35720fb0c50c3b6642022a572e9e901f53921f077010f4aec5b4d3"
+        }
     },
     {
         "id": 805,
@@ -27322,7 +27644,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NANDIGHOS_LOGO_NEW-transparent.png",
         "provider": "Zonet Cable Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_993/output/manifest.mpd?hdnea=st=1727175964~exp=1727176564~acl=/bpk-tv/irdeto_com_Channel_993/output/*~id=1084464708~hmac=dde539f583d7a467bf41f2356d1da746e2f69c614bf7b854f15491965bf2bda3",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000893",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_993/output/manifest.mpd?hdnea=st=1727175964~exp=1727176564~acl=/bpk-tv/irdeto_com_Channel_993/output/*~id=1084464708~hmac=dde539f583d7a467bf41f2356d1da746e2f69c614bf7b854f15491965bf2bda3",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000893",
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_993/output/index.m3u8?hdnea=st=1727175964~exp=1727176564~acl=/bpk-tv/irdeto_com_Channel_993/output/*~id=1084464708~hmac=dde539f583d7a467bf41f2356d1da746e2f69c614bf7b854f15491965bf2bda3"
+        }
     },
     {
         "id": 907,
@@ -27353,7 +27682,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/ARGN_transparent.png",
         "provider": "Pratham Broadcast India Pvt. Ltd",
         "interactivePartner": "",
-        "logoVersion": 7
+        "logoVersion": 7,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd?hdnea=st=1727175969~exp=1727176569~acl=/bpk-tv/irdeto_com_Channel_1314/output/*~id=1084464708~hmac=9120788d5b780cc7edd09506594ff296fe4f539f80d3e38772eac2f3931a3fb5",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001058",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd?hdnea=st=1727175969~exp=1727176569~acl=/bpk-tv/irdeto_com_Channel_1314/output/*~id=1084464708~hmac=9120788d5b780cc7edd09506594ff296fe4f539f80d3e38772eac2f3931a3fb5",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001058",
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/index.m3u8?hdnea=st=1727175969~exp=1727176569~acl=/bpk-tv/irdeto_com_Channel_1314/output/*~id=1084464708~hmac=9120788d5b780cc7edd09506594ff296fe4f539f80d3e38772eac2f3931a3fb5"
+        }
     },
     {
         "id": 333,
@@ -27386,7 +27722,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD Odia.png",
         "provider": "Doordarshan",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_518/output/manifest.mpd?hdnea=st=1727175974~exp=1727176574~acl=/bpk-tv/irdeto_com_Channel_518/output/*~id=1084464708~hmac=70fcadadd60cf254d52d6b739e27999ca617029cb4d55fe712ad740447df66f4",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000350",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_518/output/manifest.mpd?hdnea=st=1727175974~exp=1727176574~acl=/bpk-tv/irdeto_com_Channel_518/output/*~id=1084464708~hmac=70fcadadd60cf254d52d6b739e27999ca617029cb4d55fe712ad740447df66f4",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000350",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_518/output/index.m3u8?hdnea=st=1727175974~exp=1727176574~acl=/bpk-tv/irdeto_com_Channel_518/output/*~id=1084464708~hmac=70fcadadd60cf254d52d6b739e27999ca617029cb4d55fe712ad740447df66f4"
+        }
     },
     {
         "id": 1169,
@@ -27416,7 +27759,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/JAY-JAGANNATH-Logo-Transparent.png",
         "provider": "M/s Indiasign Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 6
+        "logoVersion": 6,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/manifest.mpd?hdnea=st=1727175980~exp=1727176580~acl=/bpk-tv/irdeto_com_Channel_1951/output/*~id=1084464708~hmac=ee49aec675d57069532805e31516e020ba408626e8ca396e34465c78295f11d7",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001313",
+            "dashWidewinePlayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/manifest.mpd?hdnea=st=1727175980~exp=1727176580~acl=/bpk-tv/irdeto_com_Channel_1951/output/*~id=1084464708~hmac=ee49aec675d57069532805e31516e020ba408626e8ca396e34465c78295f11d7",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001313",
+            "fairplayUrl": "https://bpaita5.akamaized.net/bpk-tv/irdeto_com_Channel_1951/output/index.m3u8?hdnea=st=1727175980~exp=1727176580~acl=/bpk-tv/irdeto_com_Channel_1951/output/*~id=1084464708~hmac=ee49aec675d57069532805e31516e020ba408626e8ca396e34465c78295f11d7"
+        }
     },
     {
         "id": 230,
@@ -27470,7 +27820,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Surya TV.png",
         "provider": "Sun",
         "interactivePartner": "",
-        "logoVersion": 5
+        "logoVersion": 5,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manifest.mpd?hdnea=st=1727175985~exp=1727176585~acl=/bpk-tv/irdeto_com_Channel_212/output/*~id=1084464708~hmac=d9d3831ec1ac150ce74707082fc769efc9ae4661e3c157d5bf51ff8a5a6d6d93",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000244",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/manifest.mpd?hdnea=st=1727175985~exp=1727176585~acl=/bpk-tv/irdeto_com_Channel_212/output/*~id=1084464708~hmac=d9d3831ec1ac150ce74707082fc769efc9ae4661e3c157d5bf51ff8a5a6d6d93",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000244",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_212/output/index.m3u8?hdnea=st=1727175985~exp=1727176585~acl=/bpk-tv/irdeto_com_Channel_212/output/*~id=1084464708~hmac=d9d3831ec1ac150ce74707082fc769efc9ae4661e3c157d5bf51ff8a5a6d6d93"
+        }
     },
     {
         "id": 292,
@@ -27526,7 +27883,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Asianet HD.png",
         "provider": "Star",
         "interactivePartner": "",
-        "logoVersion": 14
+        "logoVersion": 14,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd?hdnea=st=1727175990~exp=1727176590~acl=/bpk-tv/irdeto_com_Channel_464/output/*~id=1084464708~hmac=dc16626abe1e1149c173aaa089eb0f93dc84b375b715158b8550bcc97acd0aee",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000306",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/manifest.mpd?hdnea=st=1727175990~exp=1727176590~acl=/bpk-tv/irdeto_com_Channel_464/output/*~id=1084464708~hmac=dc16626abe1e1149c173aaa089eb0f93dc84b375b715158b8550bcc97acd0aee",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000306",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_464/output/index.m3u8?hdnea=st=1727175990~exp=1727176590~acl=/bpk-tv/irdeto_com_Channel_464/output/*~id=1084464708~hmac=dc16626abe1e1149c173aaa089eb0f93dc84b375b715158b8550bcc97acd0aee"
+        }
     },
     {
         "id": 953,
@@ -27626,7 +27990,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Asianet Plus.png",
         "provider": "Star",
         "interactivePartner": "",
-        "logoVersion": 7
+        "logoVersion": 7,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd?hdnea=st=1727176033~exp=1727176633~acl=/bpk-tv/irdeto_com_Channel_467/output/*~id=1084464708~hmac=4d88032074c01a01e2c40490dd3b1295a01701930fa9bda02b1a80e606005ed6",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000308",
+            "dashWidewinePlayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/manifest.mpd?hdnea=st=1727176033~exp=1727176633~acl=/bpk-tv/irdeto_com_Channel_467/output/*~id=1084464708~hmac=4d88032074c01a01e2c40490dd3b1295a01701930fa9bda02b1a80e606005ed6",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000308",
+            "fairplayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_467/output/index.m3u8?hdnea=st=1727176033~exp=1727176633~acl=/bpk-tv/irdeto_com_Channel_467/output/*~id=1084464708~hmac=4d88032074c01a01e2c40490dd3b1295a01701930fa9bda02b1a80e606005ed6"
+        }
     },
     {
         "id": 694,
@@ -27690,7 +28061,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Keralam HD.png",
         "provider": "Zee",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd?hdnea=st=1727176038~exp=1727176638~acl=/bpk-tv/irdeto_com_Channel_933/output/*~id=1084464708~hmac=a95ec506b7e5dccd701f2c8bd0ccb738e71378c4d098b7a8b39c248d1710c388",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000737",
+            "dashWidewinePlayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/manifest.mpd?hdnea=st=1727176038~exp=1727176638~acl=/bpk-tv/irdeto_com_Channel_933/output/*~id=1084464708~hmac=a95ec506b7e5dccd701f2c8bd0ccb738e71378c4d098b7a8b39c248d1710c388",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000737",
+            "fairplayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_933/output/index.m3u8?hdnea=st=1727176038~exp=1727176638~acl=/bpk-tv/irdeto_com_Channel_933/output/*~id=1084464708~hmac=a95ec506b7e5dccd701f2c8bd0ccb738e71378c4d098b7a8b39c248d1710c388"
+        }
     },
     {
         "id": 684,
@@ -27754,7 +28132,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Zee Keralam.png",
         "provider": "Zee",
         "interactivePartner": "",
-        "logoVersion": 5
+        "logoVersion": 5,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_926/output/manifest.mpd?hdnea=st=1727176043~exp=1727176643~acl=/bpk-tv/irdeto_com_Channel_926/output/*~id=1084464708~hmac=6469d728f93f158d77b02ea8e12ee55c4392566f0597a38e0df73dc9fa161af7",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000727",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_926/output/manifest.mpd?hdnea=st=1727176043~exp=1727176643~acl=/bpk-tv/irdeto_com_Channel_926/output/*~id=1084464708~hmac=6469d728f93f158d77b02ea8e12ee55c4392566f0597a38e0df73dc9fa161af7",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000727",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_926/output/index.m3u8?hdnea=st=1727176043~exp=1727176643~acl=/bpk-tv/irdeto_com_Channel_926/output/*~id=1084464708~hmac=6469d728f93f158d77b02ea8e12ee55c4392566f0597a38e0df73dc9fa161af7"
+        }
     },
     {
         "id": 10,
@@ -27791,7 +28176,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Flowers.png",
         "provider": "TATASKY_VEDANTU_JEE",
         "interactivePartner": "",
-        "logoVersion": 5
+        "logoVersion": 5,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/manifest.mpd?hdnea=st=1727176048~exp=1727176648~acl=/bpk-tv/irdeto_com_Channel_318/output/*~id=1084464708~hmac=a7ef98b7fe5851e2f56c14e6b51618f90641ab7c094ff460b1379a5154dd4ca0",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000009",
+            "dashWidewinePlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/manifest.mpd?hdnea=st=1727176048~exp=1727176648~acl=/bpk-tv/irdeto_com_Channel_318/output/*~id=1084464708~hmac=a7ef98b7fe5851e2f56c14e6b51618f90641ab7c094ff460b1379a5154dd4ca0",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000009",
+            "fairplayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_318/output/index.m3u8?hdnea=st=1727176048~exp=1727176648~acl=/bpk-tv/irdeto_com_Channel_318/output/*~id=1084464708~hmac=a7ef98b7fe5851e2f56c14e6b51618f90641ab7c094ff460b1379a5154dd4ca0"
+        }
     },
     {
         "id": 395,
@@ -27825,7 +28217,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Mazhavil Manorama HD.png",
         "provider": "MMTV Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/manifest.mpd?hdnea=st=1727176054~exp=1727176654~acl=/bpk-tv/irdeto_com_Channel_621/output/*~id=1084464708~hmac=68d8d15bdea125b4ecf9f2aee9d1c4d980b2cc35f004a03d370ebde198ec5a4f",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000415",
+            "dashWidewinePlayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/manifest.mpd?hdnea=st=1727176054~exp=1727176654~acl=/bpk-tv/irdeto_com_Channel_621/output/*~id=1084464708~hmac=68d8d15bdea125b4ecf9f2aee9d1c4d980b2cc35f004a03d370ebde198ec5a4f",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000415",
+            "fairplayUrl": "https://bpaita3.akamaized.net/bpk-tv/irdeto_com_Channel_621/output/index.m3u8?hdnea=st=1727176054~exp=1727176654~acl=/bpk-tv/irdeto_com_Channel_621/output/*~id=1084464708~hmac=68d8d15bdea125b4ecf9f2aee9d1c4d980b2cc35f004a03d370ebde198ec5a4f"
+        }
     },
     {
         "id": 31,
@@ -27857,7 +28256,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Mazhavil_Manorama-transparent.png",
         "provider": "MMTV Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manifest.mpd?hdnea=st=1727176059~exp=1727176659~acl=/bpk-tv/irdeto_com_Channel_320/output/*~id=1084464708~hmac=65bcbefa5c0e20712340afd2cfe595937f138d38902011b90f67397e0036f399",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000030",
+            "dashWidewinePlayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/manifest.mpd?hdnea=st=1727176059~exp=1727176659~acl=/bpk-tv/irdeto_com_Channel_320/output/*~id=1084464708~hmac=65bcbefa5c0e20712340afd2cfe595937f138d38902011b90f67397e0036f399",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000030",
+            "fairplayUrl": "https://bpaita1.akamaized.net/bpk-tv/irdeto_com_Channel_320/output/index.m3u8?hdnea=st=1727176059~exp=1727176659~acl=/bpk-tv/irdeto_com_Channel_320/output/*~id=1084464708~hmac=65bcbefa5c0e20712340afd2cfe595937f138d38902011b90f67397e0036f399"
+        }
     },
     {
         "id": 25,
@@ -27890,7 +28296,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Kairali TV.png",
         "provider": "Malayalam Communications Ltd",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd?hdnea=st=1727176065~exp=1727176665~acl=/bpk-tv/irdeto_com_Channel_319/output/*~id=1084464708~hmac=aaa4930e349c6ec11df8df16d4957b9def6caab24ded7170cf4efd51a0daf4de",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000011",
+            "dashWidewinePlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/manifest.mpd?hdnea=st=1727176065~exp=1727176665~acl=/bpk-tv/irdeto_com_Channel_319/output/*~id=1084464708~hmac=aaa4930e349c6ec11df8df16d4957b9def6caab24ded7170cf4efd51a0daf4de",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000011",
+            "fairplayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_319/output/index.m3u8?hdnea=st=1727176065~exp=1727176665~acl=/bpk-tv/irdeto_com_Channel_319/output/*~id=1084464708~hmac=aaa4930e349c6ec11df8df16d4957b9def6caab24ded7170cf4efd51a0daf4de"
+        }
     },
     {
         "id": 553,
@@ -27923,7 +28336,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/We TV.png",
         "provider": "Malayalam Communications Ltd",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/manifest.mpd?hdnea=st=1727176070~exp=1727176670~acl=/bpk-tv/irdeto_com_Channel_322/output/*~id=1084464708~hmac=873e4ca06f03a7eb9ec9484a29902aec63e079ab97cbc6e01fe4cf816c2d3429",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000582",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/manifest.mpd?hdnea=st=1727176070~exp=1727176670~acl=/bpk-tv/irdeto_com_Channel_322/output/*~id=1084464708~hmac=873e4ca06f03a7eb9ec9484a29902aec63e079ab97cbc6e01fe4cf816c2d3429",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000582",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_322/output/index.m3u8?hdnea=st=1727176070~exp=1727176670~acl=/bpk-tv/irdeto_com_Channel_322/output/*~id=1084464708~hmac=873e4ca06f03a7eb9ec9484a29902aec63e079ab97cbc6e01fe4cf816c2d3429"
+        }
     },
     {
         "id": 178,
@@ -27955,7 +28375,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Amrita TV.png",
         "provider": "Amrita Enterprises Private Ltd",
         "interactivePartner": "",
-        "logoVersion": 5
+        "logoVersion": 5,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_325/output/manifest.mpd?hdnea=st=1727176075~exp=1727176675~acl=/bpk-tv/irdeto_com_Channel_325/output/*~id=1084464708~hmac=34c6e2b66f1717a38e523843b78d92b76a0358cc25873ca4c9d256743d66f696",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000195",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_325/output/manifest.mpd?hdnea=st=1727176075~exp=1727176675~acl=/bpk-tv/irdeto_com_Channel_325/output/*~id=1084464708~hmac=34c6e2b66f1717a38e523843b78d92b76a0358cc25873ca4c9d256743d66f696",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000195",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_325/output/index.m3u8?hdnea=st=1727176075~exp=1727176675~acl=/bpk-tv/irdeto_com_Channel_325/output/*~id=1084464708~hmac=34c6e2b66f1717a38e523843b78d92b76a0358cc25873ca4c9d256743d66f696"
+        }
     },
     {
         "id": 229,
@@ -28000,7 +28427,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Surya Movies.png",
         "provider": "Sun",
         "interactivePartner": "",
-        "logoVersion": 5
+        "logoVersion": 5,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd?hdnea=st=1727176080~exp=1727176680~acl=/bpk-tv/irdeto_com_Channel_243/output/*~id=1084464708~hmac=45fd018c555beff7f5f566c779806d322ced17ca56edb9d1f9b0d083d56b55b1",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000245",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd?hdnea=st=1727176080~exp=1727176680~acl=/bpk-tv/irdeto_com_Channel_243/output/*~id=1084464708~hmac=45fd018c555beff7f5f566c779806d322ced17ca56edb9d1f9b0d083d56b55b1",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000245",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/index.m3u8?hdnea=st=1727176080~exp=1727176680~acl=/bpk-tv/irdeto_com_Channel_243/output/*~id=1084464708~hmac=45fd018c555beff7f5f566c779806d322ced17ca56edb9d1f9b0d083d56b55b1"
+        }
     },
     {
         "id": 293,
@@ -28049,7 +28483,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Asianet Movies.png",
         "provider": "Star",
         "interactivePartner": "",
-        "logoVersion": 6
+        "logoVersion": 6,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd?hdnea=st=1727176086~exp=1727176686~acl=/bpk-tv/irdeto_com_Channel_465/output/*~id=1084464708~hmac=5c512f3babab1bbc925e5d7a2b60736ee122e8688d585218c9544c0b55869ff4",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000307",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/manifest.mpd?hdnea=st=1727176086~exp=1727176686~acl=/bpk-tv/irdeto_com_Channel_465/output/*~id=1084464708~hmac=5c512f3babab1bbc925e5d7a2b60736ee122e8688d585218c9544c0b55869ff4",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000307",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_465/output/index.m3u8?hdnea=st=1727176086~exp=1727176686~acl=/bpk-tv/irdeto_com_Channel_465/output/*~id=1084464708~hmac=5c512f3babab1bbc925e5d7a2b60736ee122e8688d585218c9544c0b55869ff4"
+        }
     },
     {
         "id": 933,
@@ -28098,7 +28539,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Asianet Movies.png",
         "provider": "Star",
         "interactivePartner": "",
-        "logoVersion": 1
+        "logoVersion": 1,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://delta31tatasky.akamaized.net/out/i/29274.mpd",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400001085",
+            "dashWidewinePlayUrl": "https://delta31tatasky.akamaized.net/out/i/29273.mpd",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001085",
+            "fairplayUrl": "https://delta31tatasky.akamaized.net/out/i/29271.m3u8"
+        }
     },
     {
         "id": 436,
@@ -28131,7 +28579,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Safari TV.png",
         "provider": "Safari Multimedia Pvt. Ltd",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/manifest.mpd?hdnea=st=1727176096~exp=1727176696~acl=/bpk-tv/irdeto_com_Channel_698/output/*~id=1084464708~hmac=ec913b76734f4dfe6cfc7a089a5141f7873ff329769390cfd0289f68d4dde037",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000459",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/manifest.mpd?hdnea=st=1727176096~exp=1727176696~acl=/bpk-tv/irdeto_com_Channel_698/output/*~id=1084464708~hmac=ec913b76734f4dfe6cfc7a089a5141f7873ff329769390cfd0289f68d4dde037",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000459",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_698/output/index.m3u8?hdnea=st=1727176096~exp=1727176696~acl=/bpk-tv/irdeto_com_Channel_698/output/*~id=1084464708~hmac=ec913b76734f4dfe6cfc7a089a5141f7873ff329769390cfd0289f68d4dde037"
+        }
     },
     {
         "id": 532,
@@ -28161,7 +28616,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Asianet News.png",
         "provider": "Asianet News Network",
         "interactivePartner": "",
-        "logoVersion": 3
+        "logoVersion": 3,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/manifest.mpd?hdnea=st=1727176101~exp=1727176701~acl=/bpk-tv/irdeto_com_Channel_466/output/*~id=1084464708~hmac=5a497939250c553fda160735b962f58edc5fc2dafaa6b7241fdf6a57550aef14",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000561",
+            "dashWidewinePlayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/manifest.mpd?hdnea=st=1727176101~exp=1727176701~acl=/bpk-tv/irdeto_com_Channel_466/output/*~id=1084464708~hmac=5a497939250c553fda160735b962f58edc5fc2dafaa6b7241fdf6a57550aef14",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000561",
+            "fairplayUrl": "https://bpaita6.akamaized.net/bpk-tv/irdeto_com_Channel_466/output/index.m3u8?hdnea=st=1727176101~exp=1727176701~acl=/bpk-tv/irdeto_com_Channel_466/output/*~id=1084464708~hmac=5a497939250c553fda160735b962f58edc5fc2dafaa6b7241fdf6a57550aef14"
+        }
     },
     {
         "id": 66,
@@ -28229,7 +28691,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/News18 Kerala.png",
         "provider": "Viacom",
         "interactivePartner": "",
-        "logoVersion": 14
+        "logoVersion": 14,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/manifest.mpd?hdnea=st=1727176107~exp=1727176707~acl=/bpk-tv/irdeto_com_Channel_374/output/*~id=1084464708~hmac=4f4e2b7a1721d81a6de51bd2dcd7da0fa57054d42ee5104f9ef51aa5c04b6493",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000062",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/manifest.mpd?hdnea=st=1727176107~exp=1727176707~acl=/bpk-tv/irdeto_com_Channel_374/output/*~id=1084464708~hmac=4f4e2b7a1721d81a6de51bd2dcd7da0fa57054d42ee5104f9ef51aa5c04b6493",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000062",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_374/output/index.m3u8?hdnea=st=1727176107~exp=1727176707~acl=/bpk-tv/irdeto_com_Channel_374/output/*~id=1084464708~hmac=4f4e2b7a1721d81a6de51bd2dcd7da0fa57054d42ee5104f9ef51aa5c04b6493"
+        }
     },
     {
         "id": 87,
@@ -28261,7 +28730,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Manorama News.png",
         "provider": "MMTV Pvt Ltd",
         "interactivePartner": "",
-        "logoVersion": 5
+        "logoVersion": 5,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/manifest.mpd?hdnea=st=1727176112~exp=1727176712~acl=/bpk-tv/irdeto_com_Channel_244/output/*~id=1084464708~hmac=acbf95fda1a26a66a81d78ec126761f91dbce3f49ba68f994fb3d5858c55392d",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000087",
+            "dashWidewinePlayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/manifest.mpd?hdnea=st=1727176112~exp=1727176712~acl=/bpk-tv/irdeto_com_Channel_244/output/*~id=1084464708~hmac=acbf95fda1a26a66a81d78ec126761f91dbce3f49ba68f994fb3d5858c55392d",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000087",
+            "fairplayUrl": "https://bpaita7.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/index.m3u8?hdnea=st=1727176112~exp=1727176712~acl=/bpk-tv/irdeto_com_Channel_244/output/*~id=1084464708~hmac=acbf95fda1a26a66a81d78ec126761f91dbce3f49ba68f994fb3d5858c55392d"
+        }
     },
     {
         "id": 394,
@@ -28294,7 +28770,14 @@
         "transparentImageUrl": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Mathrubhumi News.png",
         "provider": "The Mathrubhumi Printing & Publishing Company Limited",
         "interactivePartner": "",
-        "logoVersion": 4
+        "logoVersion": 4,
+        "streamData": {
+            "dashPlayreadyPlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_620/output/manifest.mpd?hdnea=st=1727176117~exp=1727176717~acl=/bpk-tv/irdeto_com_Channel_620/output/*~id=1084464708~hmac=88b38442fcb3c52d9fe4ef4d4a95bdf1eda38860c0bcfba5771acd0710abfd47",
+            "dashPlayreadyLicenseUrl": "https://tataplay.live.ott.irdeto.com/playready/rightsmanager.asmx?CrmId=tatasky&AccountId=tatasky&ContentId=400000414",
+            "dashWidewinePlayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_620/output/manifest.mpd?hdnea=st=1727176117~exp=1727176717~acl=/bpk-tv/irdeto_com_Channel_620/output/*~id=1084464708~hmac=88b38442fcb3c52d9fe4ef4d4a95bdf1eda38860c0bcfba5771acd0710abfd47",
+            "dashWidewineLicenseUrl": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000414",
+            "fairplayUrl": "https://bpaita4.akamaized.net/bpk-tv/irdeto_com_Channel_620/output/index.m3u8?hdnea=st=1727176117~exp=1727176717~acl=/bpk-tv/irdeto_com_Channel_620/output/*~id=1084464708~hmac=88b38442fcb3c52d9fe4ef4d4a95bdf1eda38860c0bcfba5771acd0710abfd47"
+        }
     },
     {
         "id": 211,
